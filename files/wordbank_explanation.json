@@ -1,0 +1,338 @@
+[
+  {
+    "number": 1,
+    "word": "vision",
+    "partOfSpeech": "n.",
+    "chinese": "远见，眼光，愿景，对未来的想象或规划"
+  },
+  {
+    "number": 2,
+    "word": "John Lennon",
+    "partOfSpeech": "n.",
+    "chinese": "约翰·列侬（英国音乐家、歌手、词曲作者）"
+  },
+  {
+    "number": 3,
+    "word": "rip into",
+    "partOfSpeech": "v.",
+    "chinese": "猛烈批评，严厉指责"
+  },
+  {
+    "number": 4,
+    "word": "light bulb",
+    "partOfSpeech": "n.",
+    "chinese": "灯泡；此处用作比喻，表示突然有了一个想法或灵感"
+  },
+  {
+    "number": 5,
+    "word": "sleek",
+    "partOfSpeech": "adj.",
+    "chinese": "光滑的，时髦的，设计精良的"
+  },
+  {
+    "number": 6,
+    "word": "extension",
+    "partOfSpeech": "n.",
+    "chinese": "延伸，扩展，延续"
+  },
+  {
+    "number": 7,
+    "word": "turned out",
+    "partOfSpeech": "v.",
+    "chinese": "结果是，证明是"
+  },
+  {
+    "number": 8,
+    "word": "portable",
+    "partOfSpeech": "adj.",
+    "chinese": "便携的，轻便的，方便携带的"
+  },
+  {
+    "number": 9,
+    "word": "toaster",
+    "partOfSpeech": "n.",
+    "chinese": "烤面包机"
+  },
+  {
+    "number": 10,
+    "word": "dictatorial",
+    "partOfSpeech": "adj.",
+    "chinese": "独裁的，专横的，命令式的"
+  },
+  {
+    "number": 11,
+    "word": "gut",
+    "partOfSpeech": "n.",
+    "chinese": "直觉，直观，本能"
+  },
+  {
+    "number": 12,
+    "word": "instinct",
+    "partOfSpeech": "n.",
+    "chinese": "本能，直觉"
+  },
+  {
+    "number": 13,
+    "word": "abrasive",
+    "partOfSpeech": "adj.",
+    "chinese": "刻薄的，尖刻的，易激怒的"
+  },
+  {
+    "number": 14,
+    "word": "brash",
+    "partOfSpeech": "adj.",
+    "chinese": "自以为是的，傲慢的，冒失的"
+  },
+  {
+    "number": 15,
+    "word": "elitist",
+    "partOfSpeech": "adj.",
+    "chinese": "精英主义的，优越主义的"
+  },
+  {
+    "number": 16,
+    "word": "envisioned",
+    "partOfSpeech": "v.",
+    "chinese": "想象，设想，预见"
+  },
+  {
+    "number": 17,
+    "word": "earbud",
+    "partOfSpeech": "n.",
+    "chinese": "耳塞式耳机"
+  },
+  {
+    "number": 18,
+    "word": "device",
+    "partOfSpeech": "n.",
+    "chinese": "设备，装置"
+  },
+  {
+    "number": 19,
+    "word": "multitasking",
+    "partOfSpeech": "n.",
+    "chinese": "多任务处理，同时处理多项任务的能力"
+  },
+  {
+    "number": 20,
+    "word": "humanizing",
+    "partOfSpeech": "v.",
+    "chinese": "人性化，使更符合人的需求或习惯"
+  },
+  {
+    "number": 21,
+    "word": "complicated",
+    "partOfSpeech": "adj.",
+    "chinese": "复杂的，难懂的"
+  },
+  {
+    "number": 22,
+    "word": "intellectuals",
+    "partOfSpeech": "n.",
+    "chinese": "知识分子，学者"
+  },
+  {
+    "number": 23,
+    "word": "put him up for",
+    "partOfSpeech": "v.",
+    "chinese": "让他被领养，将他送给"
+  },
+  {
+    "number": 24,
+    "word": "adoption",
+    "partOfSpeech": "n.",
+    "chinese": "领养，收养"
+  },
+  {
+    "number": 25,
+    "word": "wizard",
+    "partOfSpeech": "n.",
+    "chinese": "巫师，此处用作比喻，表示有特殊天赋或技能的人"
+  },
+  {
+    "number": 26,
+    "word": "muggles",
+    "partOfSpeech": "n.",
+    "chinese": "麻瓜，此处用作比喻，表示普通人或缺乏某种特殊能力的人"
+  },
+  {
+    "number": 27,
+    "word": "hybrid",
+    "partOfSpeech": "n.",
+    "chinese": "混合体，混合的事物或人"
+  },
+  {
+    "number": 28,
+    "word": "geek",
+    "partOfSpeech": "n.",
+    "chinese": "极客，对电脑或技术有着狂热兴趣的人"
+  },
+  {
+    "number": 29,
+    "word": "hippie",
+    "partOfSpeech": "n.",
+    "chinese": "嬉皮士，追求自由、和平和爱的反传统青年"
+  },
+  {
+    "number": 30,
+    "word": "techie",
+    "partOfSpeech": "n.",
+    "chinese": "技术人员，技术狂"
+  },
+  {
+    "number": 31,
+    "word": "hacker",
+    "partOfSpeech": "n.",
+    "chinese": "黑客，善于编程和电脑技术的人"
+  },
+  {
+    "number": 32,
+    "word": "whiled away",
+    "partOfSpeech": "v.",
+    "chinese": "消磨时间，打发时光"
+  },
+  {
+    "number": 33,
+    "word": "tinkering with",
+    "partOfSpeech": "v.",
+    "chinese": "修补，摆弄，尝试修改或调整"
+  },
+  {
+    "number": 34,
+    "word": "headed up to",
+    "partOfSpeech": "v.",
+    "chinese": "前往，走向"
+  },
+  {
+    "number": 35,
+    "word": "liberal arts",
+    "partOfSpeech": "n.",
+    "chinese": "文科，人文学科"
+  },
+  {
+    "number": 36,
+    "word": "tuned in",
+    "partOfSpeech": "v.",
+    "chinese": "调整至，适应，关注"
+  },
+  {
+    "number": 37,
+    "word": "dropped out",
+    "partOfSpeech": "v.",
+    "chinese": "退学，退出"
+  },
+  {
+    "number": 38,
+    "word": "LSD",
+    "partOfSpeech": "n.",
+    "chinese": "迷幻药，麦角酸二乙酰胺"
+  },
+  {
+    "number": 39,
+    "word": "dawn",
+    "partOfSpeech": "n.",
+    "chinese": "黎明，开端，起始"
+  },
+  {
+    "number": 40,
+    "word": "brainchild",
+    "partOfSpeech": "n.",
+    "chinese": "独创，心血结晶"
+  },
+  {
+    "number": 41,
+    "word": "wiring",
+    "partOfSpeech": "n.",
+    "chinese": "布线，连线，电线"
+  },
+  {
+    "number": 42,
+    "word": "behold",
+    "partOfSpeech": "v.",
+    "chinese": "看到，注视"
+  },
+  {
+    "number": 43,
+    "word": "casing",
+    "partOfSpeech": "n.",
+    "chinese": "外壳，包装箱"
+  },
+  {
+    "number": 44,
+    "word": "sensed",
+    "partOfSpeech": "v.",
+    "chinese": "感觉到，意识到"
+  },
+  {
+    "number": 45,
+    "word": "investor",
+    "partOfSpeech": "n.",
+    "chinese": "投资者"
+  },
+  {
+    "number": 46,
+    "word": "Inc.",
+    "partOfSpeech": "n.",
+    "chinese": "股份有限公司，Incorporated的缩写"
+  },
+  {
+    "number": 47,
+    "word": "category",
+    "partOfSpeech": "n.",
+    "chinese": "类别，分类"
+  },
+  {
+    "number": 48,
+    "word": "morphed into",
+    "partOfSpeech": "v.",
+    "chinese": "演变成，变形成"
+  },
+  {
+    "number": 49,
+    "word": "text display",
+    "partOfSpeech": "n.",
+    "chinese": "文本显示"
+  },
+  {
+    "number": 50,
+    "word": "graphics",
+    "partOfSpeech": "n.",
+    "chinese": "图形，图像"
+  },
+  {
+    "number": 51,
+    "word": "was onto something",
+    "partOfSpeech": "v.",
+    "chinese": "发现了一些东西，觉察到了一些东西"
+  },
+  {
+    "number": 52,
+    "word": "sparked",
+    "partOfSpeech": "v.",
+    "chinese": "激发，引发"
+  },
+  {
+    "number": 53,
+    "word": "M.O.",
+    "partOfSpeech": "n.",
+    "chinese": "方法，操作方式，Modus Operandi / method of operation的缩写"
+  },
+  {
+    "number": 54,
+    "word": "robust",
+    "partOfSpeech": "adj.",
+    "chinese": "强健的，稳固的，健壮的"
+  },
+  {
+    "number": 55,
+    "word": "dashingly",
+    "partOfSpeech": "adv.",
+    "chinese": "矫健地，潇洒地"
+  },
+  {
+    "number": 56,
+    "word": "entrepreneurship",
+    "partOfSpeech": "n.",
+    "chinese": "创业，企业家精神"
+  }
+]

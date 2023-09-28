@@ -1,0 +1,5 @@
+Help me proofread this transcript. Detect major mistakes:
+
+```
+<此处放 transcript>
+```

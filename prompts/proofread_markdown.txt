@@ -1,0 +1,12 @@
+Here is my word bank explanation. Each entry is the word, followed by 词性 and 中文含义, followed by the sentence where the word appeared.
+
+Help me proofread each entry (词性 and 中文含义).
+
+Don't print anything about the entry, if you don't think there's a mistake.
+Otherwise, explain in detail what the mistakes are, and offer a correction.
+
+---
+
+# Word Bank
+
+<此处放 output.md 里的 "# WordBank" 的内容>
