@@ -32,6 +32,7 @@ def load_json(filepath):
 # Load the annotated transcript and split it into sentences
 annotated_transcript = read_file("./files/annotated_transcript.txt")
 annotated_transcript_sentences = sent_tokenize(annotated_transcript)
+annotated_transcript_sentences = [line.strip() for sentence in annotated_transcript_sentences for line in sentence.split('\n')]
 
 markdown_parts = MarkdownParts()
 

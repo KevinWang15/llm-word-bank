@@ -1,338 +1,200 @@
 [
   {
     "number": 1,
-    "word": "vision",
-    "partOfSpeech": "n.",
-    "chinese": "愿景"
+    "word": "enthusiastic",
+    "partOfSpeech": "adj.",
+    "chinese": "热情的，充满激情的"
   },
   {
     "number": 2,
-    "word": "John Lennon",
-    "partOfSpeech": "n.",
-    "chinese": "约翰·列侬（著名音乐家）"
+    "word": "relate to",
+    "partOfSpeech": "v.",
+    "chinese": "能够理解并同情；了解；体恤"
   },
   {
     "number": 3,
-    "word": "rip into",
-    "partOfSpeech": "v.",
-    "chinese": "猛烈抨击"
+    "word": "approach",
+    "partOfSpeech": "n.",
+    "chinese": "方法，态度，方式"
   },
   {
     "number": 4,
-    "word": "light bulb",
+    "word": "extremes",
     "partOfSpeech": "n.",
-    "chinese": "灯泡（在这里指灵感、创意）"
+    "chinese": "极端，两个相对的极点"
   },
   {
     "number": 5,
-    "word": "sleek",
-    "partOfSpeech": "adj.",
-    "chinese": "光滑流畅、优美"
+    "word": "pushing",
+    "partOfSpeech": "v.",
+    "chinese": "推，施压"
   },
   {
     "number": 6,
-    "word": "extension",
+    "word": "growth",
     "partOfSpeech": "n.",
-    "chinese": "延伸、扩展"
+    "chinese": "成长，发展"
   },
   {
     "number": 7,
-    "word": "turned out",
-    "partOfSpeech": "v.",
-    "chinese": "结果是、原来是"
+    "word": "TGC",
+    "partOfSpeech": "n.",
+    "chinese": "TGC是一个公司或机构的缩写，具体含义取决于上下文"
   },
   {
     "number": 8,
-    "word": "portable",
-    "partOfSpeech": "adj.",
-    "chinese": "便携的"
+    "word": "processing plant",
+    "partOfSpeech": "n.",
+    "chinese": "加工厂"
   },
   {
     "number": 9,
-    "word": "toaster",
+    "word": "LCP",
     "partOfSpeech": "n.",
-    "chinese": "烤面包机 / 在此指广受赞誉的东西（等同于“toast”）"
+    "chinese": "LCP是Liquid Control Products公司的缩写（液体控制产品公司）"
   },
   {
     "number": 10,
-    "word": "dictatorial",
-    "partOfSpeech": "adj.",
-    "chinese": "独裁的、专断的"
+    "word": "leaks",
+    "partOfSpeech": "n.",
+    "chinese": "泄漏，渗漏"
   },
   {
     "number": 11,
-    "word": "gut",
-    "partOfSpeech": "n.",
-    "chinese": "直觉"
+    "word": "available",
+    "partOfSpeech": "adj.",
+    "chinese": "有空的"
   },
   {
     "number": 12,
-    "word": "instinct",
+    "word": "colleague",
     "partOfSpeech": "n.",
-    "chinese": "本能、直觉"
+    "chinese": "同事，同僚"
   },
   {
     "number": 13,
-    "word": "abrasive",
-    "partOfSpeech": "adj.",
-    "chinese": "粗鲁的、伤害人感情的"
+    "word": "ring",
+    "partOfSpeech": "v.",
+    "chinese": "打电话"
   },
   {
     "number": 14,
-    "word": "brash",
-    "partOfSpeech": "adj.",
-    "chinese": "盛气凌人的"
+    "word": "references",
+    "partOfSpeech": "n.",
+    "chinese": "推荐信，介绍信"
   },
   {
     "number": 15,
-    "word": "elitist",
-    "partOfSpeech": "adj.",
-    "chinese": "精英主义的、排外的"
+    "word": "electricity board",
+    "partOfSpeech": "n.",
+    "chinese": "电力局，电力供应部门"
   },
   {
     "number": 16,
-    "word": "envisioned",
-    "partOfSpeech": "v.",
-    "chinese": "构想、设想"
+    "word": "appliances",
+    "partOfSpeech": "n.",
+    "chinese": "电器，家用电器"
   },
   {
     "number": 17,
-    "word": "earbud",
-    "partOfSpeech": "n.",
-    "chinese": "耳塞式耳机"
+    "word": "gets around them",
+    "partOfSpeech": "v.",
+    "chinese": "说服某人同意"
   },
   {
     "number": 18,
-    "word": "device",
-    "partOfSpeech": "n.",
-    "chinese": "设备、装置"
+    "word": "makes off with",
+    "partOfSpeech": "v.",
+    "chinese": "带走，偷走"
   },
   {
     "number": 19,
-    "word": "multitasking",
-    "partOfSpeech": "n.",
-    "chinese": "多任务处理"
+    "word": "automatically",
+    "partOfSpeech": "adv.",
+    "chinese": "自动地，无意识地"
   },
   {
     "number": 20,
-    "word": "humanizing",
+    "word": "flash",
     "partOfSpeech": "v.",
-    "chinese": "使人性化"
+    "chinese": "迅速展示，快速亮出"
   },
   {
     "number": 21,
-    "word": "complicated",
-    "partOfSpeech": "adj.",
-    "chinese": "复杂的"
+    "word": "ID",
+    "partOfSpeech": "n.",
+    "chinese": "身份证明，证件"
   },
   {
     "number": 22,
-    "word": "intellectuals",
+    "word": "pensioners",
     "partOfSpeech": "n.",
-    "chinese": "知识分子"
+    "chinese": "退休人员，领养老金者"
   },
   {
     "number": 23,
-    "word": "put him up for",
-    "partOfSpeech": "v.",
-    "chinese": "让…被…"
+    "word": "pension",
+    "partOfSpeech": "n.",
+    "chinese": "养老金，退休金"
   },
   {
     "number": 24,
-    "word": "adoption",
+    "word": "the whole lot",
     "partOfSpeech": "n.",
-    "chinese": "领养"
+    "chinese": "全部，所有"
   },
   {
     "number": 25,
-    "word": "wizard",
-    "partOfSpeech": "n.",
-    "chinese": "魔法师/男巫/奇才"
+    "word": "bushy",
+    "partOfSpeech": "adj.",
+    "chinese": "浓密的，茂盛的"
   },
   {
     "number": 26,
-    "word": "muggles",
-    "partOfSpeech": "n.",
-    "chinese": "麻瓜（哈利波特系列中的普通人）"
+    "word": "slight",
+    "partOfSpeech": "adj.",
+    "chinese": "轻微的，细微的"
   },
   {
     "number": 27,
-    "word": "hybrid",
+    "word": "northern accent",
     "partOfSpeech": "n.",
-    "chinese": "混合物、混合体"
+    "chinese": "北方口音，北方腔调"
   },
   {
     "number": 28,
-    "word": "geek",
+    "word": "symphonies",
     "partOfSpeech": "n.",
-    "chinese": "极客，技术狂人"
+    "chinese": "交响乐，交响曲"
   },
   {
     "number": 29,
-    "word": "hippie",
+    "word": "concertos",
     "partOfSpeech": "n.",
-    "chinese": "嬉皮士"
+    "chinese": "协奏曲"
   },
   {
     "number": 30,
-    "word": "techie",
+    "word": "string quartets",
     "partOfSpeech": "n.",
-    "chinese": "技术发烧友"
+    "chinese": "弦乐四重奏"
   },
   {
     "number": 31,
-    "word": "hacker",
+    "word": "sonatas",
     "partOfSpeech": "n.",
-    "chinese": "黑客"
+    "chinese": "奏鸣曲"
   },
   {
     "number": 32,
-    "word": "whiled away",
-    "partOfSpeech": "v.",
-    "chinese": "消磨时间"
+    "word": "playwright",
+    "partOfSpeech": "n.",
+    "chinese": "剧作家"
   },
   {
     "number": 33,
-    "word": "tinkering with",
-    "partOfSpeech": "v.",
-    "chinese": "摆弄、修理"
-  },
-  {
-    "number": 34,
-    "word": "headed up to",
-    "partOfSpeech": "v.",
-    "chinese": "前往"
-  },
-  {
-    "number": 35,
-    "word": "liberal arts",
+    "word": "dramatists",
     "partOfSpeech": "n.",
-    "chinese": "文科"
-  },
-  {
-    "number": 36,
-    "word": "tuned in",
-    "partOfSpeech": "v.",
-    "chinese": "收听收看，指调整、适应学校生活"
-  },
-  {
-    "number": 37,
-    "word": "dropped out",
-    "partOfSpeech": "v.",
-    "chinese": "辍学"
-  },
-  {
-    "number": 38,
-    "word": "LSD",
-    "partOfSpeech": "n.",
-    "chinese": "迷幻药（Lysergic acid diethylamide）"
-  },
-  {
-    "number": 39,
-    "word": "dawn",
-    "partOfSpeech": "n.",
-    "chinese": "黎明、开始"
-  },
-  {
-    "number": 40,
-    "word": "brainchild",
-    "partOfSpeech": "n.",
-    "chinese": "构想、创意"
-  },
-  {
-    "number": 41,
-    "word": "wiring",
-    "partOfSpeech": "n.",
-    "chinese": "连接和布置电线（比喻做基础布局或落实工作）"
-  },
-  {
-    "number": 42,
-    "word": "behold",
-    "partOfSpeech": "v.",
-    "chinese": "看、瞧"
-  },
-  {
-    "number": 43,
-    "word": "casing",
-    "partOfSpeech": "n.",
-    "chinese": "外壳"
-  },
-  {
-    "number": 44,
-    "word": "sensed",
-    "partOfSpeech": "v.",
-    "chinese": "感觉、察觉"
-  },
-  {
-    "number": 45,
-    "word": "investor",
-    "partOfSpeech": "n.",
-    "chinese": "投资者"
-  },
-  {
-    "number": 46,
-    "word": "Inc.",
-    "partOfSpeech": "n.",
-    "chinese": "公司"
-  },
-  {
-    "number": 47,
-    "word": "category",
-    "partOfSpeech": "n.",
-    "chinese": "类别、种类"
-  },
-  {
-    "number": 48,
-    "word": "morphed into",
-    "partOfSpeech": "v.",
-    "chinese": "演变成"
-  },
-  {
-    "number": 49,
-    "word": "text display",
-    "partOfSpeech": "n.",
-    "chinese": "文字显示"
-  },
-  {
-    "number": 50,
-    "word": "graphics",
-    "partOfSpeech": "n.",
-    "chinese": "图形"
-  },
-  {
-    "number": 51,
-    "word": "was onto something",
-    "partOfSpeech": "v.",
-    "chinese": "发现了某些重要的事物"
-  },
-  {
-    "number": 52,
-    "word": "sparked",
-    "partOfSpeech": "v.",
-    "chinese": "点燃、激发"
-  },
-  {
-    "number": 53,
-    "word": "M.O.",
-    "partOfSpeech": "n.",
-    "chinese": "作风、工作方式（Modus Operandi）"
-  },
-  {
-    "number": 54,
-    "word": "robust",
-    "partOfSpeech": "adj.",
-    "chinese": "强壮的、健壮的"
-  },
-  {
-    "number": 55,
-    "word": "dashingly",
-    "partOfSpeech": "adv.",
-    "chinese": "英俊地、帅气地"
-  },
-  {
-    "number": 56,
-    "word": "entrepreneurship",
-    "partOfSpeech": "n.",
-    "chinese": "企业家精神"
+    "chinese": "戏剧家，剧作家"
   }
 ]
