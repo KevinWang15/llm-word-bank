@@ -1,0 +1,110 @@
+[
+  {
+    "number": 1,
+    "word": "immigrated",
+    "partOfSpeech": "v.",
+    "chinese": "移民，迁移到（表示从一个国家迁移到另一个国家）"
+  },
+  {
+    "number": 2,
+    "word": "thrived",
+    "partOfSpeech": "v.",
+    "chinese": "茁壮成长，兴旺发达"
+  },
+  {
+    "number": 3,
+    "word": "urban",
+    "partOfSpeech": "adj.",
+    "chinese": "城市的，都市的"
+  },
+  {
+    "number": 4,
+    "word": "secretarial",
+    "partOfSpeech": "adj.",
+    "chinese": "秘书的，与秘书工作相关的"
+  },
+  {
+    "number": 5,
+    "word": "executive",
+    "partOfSpeech": "n.",
+    "chinese": "高级管理人员，执行官"
+  },
+  {
+    "number": 6,
+    "word": "rare wood",
+    "partOfSpeech": "n.",
+    "chinese": "稀有木材，罕见的木头"
+  },
+  {
+    "number": 7,
+    "word": "display",
+    "partOfSpeech": "n.",
+    "chinese": "展示，展览"
+  },
+  {
+    "number": 8,
+    "word": "windblown",
+    "partOfSpeech": "adj.",
+    "chinese": "被风吹散的，飘散的"
+  },
+  {
+    "number": 9,
+    "word": "gaze",
+    "partOfSpeech": "n.",
+    "chinese": "凝视，注视"
+  },
+  {
+    "number": 10,
+    "word": "hit-and-run",
+    "partOfSpeech": "adj.",
+    "chinese": "肇事逃逸的"
+  },
+  {
+    "number": 11,
+    "word": "permanent",
+    "partOfSpeech": "adj.",
+    "chinese": "永久的，持久的"
+  },
+  {
+    "number": 12,
+    "word": "limp",
+    "partOfSpeech": "n.",
+    "chinese": "跛行，蹒跚"
+  },
+  {
+    "number": 13,
+    "word": "schooling",
+    "partOfSpeech": "n.",
+    "chinese": "学校教育，学识"
+  },
+  {
+    "number": 14,
+    "word": "self-taught",
+    "partOfSpeech": "adj.",
+    "chinese": "自学成才的，非正规途径学习的"
+  },
+  {
+    "number": 15,
+    "word": "wholesale",
+    "partOfSpeech": "adj.",
+    "chinese": "批发的"
+  },
+  {
+    "number": 16,
+    "word": "commuted",
+    "partOfSpeech": "v.",
+    "chinese": "通勤，往返上下班或工作"
+  },
+  {
+    "number": 17,
+    "word": "traded",
+    "partOfSpeech": "v.",
+    "chinese": "交换，用...交换"
+  },
+  {
+    "number": 18,
+    "word": "isolated",
+    "partOfSpeech": "adj.",
+    "chinese": "孤立的，偏远的"
+  }
+]

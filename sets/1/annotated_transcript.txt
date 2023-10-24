@@ -1,4 +1,4 @@
-```# P3T2
+# P3T2
 
 Well, after a day out at the [1.temple fair], [2.setting off] [3.fireworks] and [4.firecrackers] at night is also a [5.quintessential] part of a spring festival all over China. But where exactly does it come from in Chinese [6.legend]?
 
@@ -7,14 +7,3 @@ Well, going back thousands of years, there... People believed it was a [7.feroci
 In an effort to [11.repel] this terrifying beast, the people... will throw bamboo [12.cane] into a fire and then they discovered gunpowder and found the firecrackers were more effective. And the celebration of Chinese New Year is also called guo nian, which means to pass or survive the nian. And it's from this that the tradition of setting off fireworks and firecrackers originated nowadays.
 
 People do it as a means of entertainment as well as a time to pray for happiness and [13.prosperity].
-```
-
-原文中有多个方括号，方括号内是编号+单词。
-
-解释短语在上下文中的中文含义。
-
-输出JSON:
-[{"number": 编号, "word": 单词, "partOfSpeech": 词性, "chinese": 中文含义}]
-
-词性请从 n., v., adj., adv. 中选择
-中文含义 请稍微详细一些，就像字典上能查到的一样，用多个中文词语来解释。遇到缩写，请展开解释。

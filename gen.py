@@ -1,3 +1,4 @@
+import os
 import re
 import nltk
 import json
@@ -9,6 +10,7 @@ from nltk.tokenize import sent_tokenize
 # Define a class to hold the parts of the markdown file
 class MarkdownParts:
     def __init__(self):
+        self.title = ""
         self.transcript = ""
         self.wordBank = ""
 
@@ -29,80 +31,101 @@ def load_json(filepath):
         return json.load(file)
 
 
-# Load the annotated transcript and split it into sentences
-annotated_transcript = read_file("./files/annotated_transcript.txt")
-annotated_transcript_sentences = sent_tokenize(annotated_transcript)
-annotated_transcript_sentences = [line.strip() for sentence in annotated_transcript_sentences for line in sentence.split('\n')]
+def extract_title_from_transcript(file_content):
+    lines = file_content.split('\n')
+    if lines[0].startswith("# "):
+        title = lines[0][2:]  # Get everything after '# '
+        lines.pop(0)  # Remove the first line
+        return title, '\n'.join(lines)
+    else:
+        return "", file_content
 
-markdown_parts = MarkdownParts()
 
-# Define the pattern to match word bank references in the text
-word_bank_matcher_pattern = re.compile(r'\[(\d+)\.(.*?)\]')
+html_parts = []
 
-# Replace word bank references in the transcript with bold markdown
-markdown_parts.transcript = word_bank_matcher_pattern.sub(r'**\2**', annotated_transcript)
+setsDir = "./sets/"
+for subdir, dirs, files in os.walk("./sets/"):
+    if subdir == setsDir:
+        dirs.sort()
+        continue
 
-# Load the word bank explanations and original word bank
-word_bank_explanation = load_json("./files/wordbank_explanation.json")
+    # Load the annotated transcript and split it into sentences
+    annotated_transcript = read_file(subdir + "/annotated_transcript.txt")
+    title, annotated_transcript = extract_title_from_transcript(annotated_transcript)
+    annotated_transcript_sentences = sent_tokenize(annotated_transcript)
+    annotated_transcript_sentences = [line.strip() for sentence in annotated_transcript_sentences for line in
+                                      sentence.split('\n')]
 
-# Build a dictionary to map numbers to original words from the word bank file
-number_to_original = {}
-with open('files/wordbank.txt', 'r') as file:
-    for line in file:
-        number, original = line.strip().split('. ', 1)
-        number_to_original[int(number)] = original
+    markdown_parts = MarkdownParts()
 
-# Add the original word to each item in the word bank explanation
-for item in word_bank_explanation:
-    item['original'] = number_to_original.get(item['number'], "")
+    markdown_parts.title = title
 
-# Find a sentence for each item in the word bank explanation
-for item in word_bank_explanation:
-    number = item['number']
-    for sentence in annotated_transcript_sentences:
-        match = re.search(f'\\[{number}.([^\\]]+)]', sentence)
-        if match:
-            # Highlight the matched word
-            formatted_sentence = sentence.replace(match.group(0), f'**{match.group(1)}**')
-            # Remove other word bank references
-            formatted_sentence = word_bank_matcher_pattern.sub(r'\2', formatted_sentence)
-            item['sentence'] = formatted_sentence
-            break
+    # Define the pattern to match word bank references in the text
+    word_bank_matcher_pattern = re.compile(r'\[(\d+)\.(.*?)\]')
 
-# Build the word bank section of the markdown file
-for item in word_bank_explanation:
-    markdown_parts.wordBank += (
-        f'{item["number"]}. **{item["original"]}**: *[{item["partOfSpeech"]}]* {item["chinese"]}\n'
-        f'    - {item["sentence"]}\n'
-    )
+    # Replace word bank references in the transcript with bold markdown
+    markdown_parts.transcript = word_bank_matcher_pattern.sub(r'**\2**', annotated_transcript)
 
-markdown_output_content_transcript = f'# Transcript\n\n{markdown_parts.transcript}'
-markdown_output_content_word_bank = f'# Word Bank\n\n{markdown_parts.wordBank}'
-# Write the markdown file
-markdown_output_content = f'{markdown_output_content_transcript}\n\n{markdown_output_content_word_bank}'
+    # Load the word bank explanations and original word bank
+    word_bank_explanation = load_json(subdir + "/wordbank_explanation.json")
 
-with open("./output.md", 'w', encoding='utf-8') as file:
-    file.write(markdown_output_content)
+    # Build a dictionary to map numbers to original words from the word bank file
+    number_to_original = {}
+    with open(subdir + '/wordbank.txt', 'r') as file:
+        for line in file:
+            number, original = line.strip().split('. ', 1)
+            number_to_original[int(number)] = original
 
-# Convert the markdown to HTML
-html_content = f'''
-<html>
-<head>
-    <meta http-equiv="content-type" content="text/html;charset=utf-8">
-</head>
-<body>
-    {markdown2.markdown(markdown_output_content_transcript)}
-    <div style="page-break-before: always;"></div>
-    {markdown2.markdown(markdown_output_content_word_bank)}
-</body>
-</html>
-'''
+    # Add the original word to each item in the word bank explanation
+    for item in word_bank_explanation:
+        item['original'] = number_to_original.get(item['number'], "")
 
-# Convert the HTML content to PDF using pdfkit
-# Including the custom CSS file for styling
+    # Find a sentence for each item in the word bank explanation
+    for item in word_bank_explanation:
+        number = item['number']
+        for sentence in annotated_transcript_sentences:
+            match = re.search(f'\\[{number}.([^\\]]+)]', sentence)
+            if match:
+                # Highlight the matched word
+                formatted_sentence = sentence.replace(match.group(0), f'**{match.group(1)}**')
+                # Remove other word bank references
+                formatted_sentence = word_bank_matcher_pattern.sub(r'\2', formatted_sentence)
+                item['sentence'] = formatted_sentence
+                break
+
+    # Build the word bank section of the markdown file
+    for item in word_bank_explanation:
+        markdown_parts.wordBank += (
+            f'{item["number"]}. **{item["original"]}**: *[{item["partOfSpeech"]}]* {item["chinese"]}\n'
+            f'    - {item["sentence"]}\n'
+        )
+
+    markdown_output_title = f'# {markdown_parts.title}'
+    markdown_output_content_transcript = f'## Transcript\n\n{markdown_parts.transcript}'
+    markdown_output_content_word_bank = f'## Word Bank\n\n{markdown_parts.wordBank}'
+    # Write the markdown file
+    markdown_output_content = f'{markdown_output_title}\n\n{markdown_output_content_transcript}\n\n{markdown_output_content_word_bank}'
+
+    with open(subdir + "/output.md", 'w', encoding='utf-8') as file:
+        file.write(markdown_output_content)
+
+    html_parts.append(
+        markdown2.markdown(markdown_output_title) + markdown2.markdown(markdown_output_content_transcript))
+    html_parts.append(markdown2.markdown(markdown_output_content_word_bank))
+
+# generate final pdf
 pdfkit.from_string(
-    html_content,
-    "output.pdf",
+    f'''
+    <html>
+    <head>
+        <meta http-equiv="content-type" content="text/html;charset=utf-8">
+    </head>
+    <body>
+        {'<div style="page-break-before: always;"></div>'.join(html_parts)}
+    </body>
+    </html>
+    ''',
+    "./output.pdf",
     css="assets/pdf_style.css",
     options={
         'margin-top': '2.4cm',
