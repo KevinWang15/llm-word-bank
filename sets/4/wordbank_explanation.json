@@ -1,140 +1,134 @@
 [
   {
     "number": 1,
-    "word": "commemorate",
-    "partOfSpeech": "v.",
-    "chinese": "纪念，庆祝"
+    "word": "course",
+    "partOfSpeech": "n.",
+    "chinese": "过程，进程"
   },
   {
     "number": 2,
-    "word": "Army Corps",
+    "word": "dedication",
     "partOfSpeech": "n.",
-    "chinese": "军团，陆军部队"
+    "chinese": "奉献，致力，执着"
   },
   {
     "number": 3,
-    "word": "armed conflict",
-    "partOfSpeech": "n.",
-    "chinese": "武装冲突，战争"
+    "word": "tremendous",
+    "partOfSpeech": "adj.",
+    "chinese": "巨大的，极其的，惊人的"
   },
   {
     "number": 4,
-    "word": "Memorial",
+    "word": "cream of the crop",
     "partOfSpeech": "n.",
-    "chinese": "纪念碑，纪念馆"
+    "chinese": "最优秀的一部分，精英，佼佼者"
   },
   {
     "number": 5,
-    "word": "Dawn",
+    "word": "combination",
     "partOfSpeech": "n.",
-    "chinese": "黎明，拂晓"
+    "chinese": "组合，结合"
   },
   {
     "number": 6,
-    "word": "weary",
+    "word": "innate",
     "partOfSpeech": "adj.",
-    "chinese": "疲惫的，累的"
+    "chinese": "天生的，固有的"
   },
   {
     "number": 7,
-    "word": "condemn",
-    "partOfSpeech": "v.",
-    "chinese": "谴责，定罪"
+    "word": "work ethic",
+    "partOfSpeech": "n.",
+    "chinese": "工作态度 (通过勤奋换取回报的态度)"
   },
   {
     "number": 8,
-    "word": "lest",
-    "partOfSpeech": "adv.",
-    "chinese": "以免，唯恐"
+    "word": "entourage",
+    "partOfSpeech": "n.",
+    "chinese": "随行人员，团队，随员"
   },
   {
     "number": 9,
-    "word": "verse",
+    "word": "strength and conditioning coaches",
     "partOfSpeech": "n.",
-    "chinese": "诗句，韵文"
+    "chinese": "力量和体能教练"
   },
   {
     "number": 10,
-    "word": "Ode",
-    "partOfSpeech": "n.",
-    "chinese": "颂歌，长诗"
+    "word": "have access",
+    "partOfSpeech": "v.",
+    "chinese": "有权使用，可以接触"
   },
   {
     "number": 11,
-    "word": "recited",
-    "partOfSpeech": "v.",
-    "chinese": "朗诵，背诵"
+    "word": "nutritionist",
+    "partOfSpeech": "n.",
+    "chinese": "营养学家，营养师"
   },
   {
     "number": 12,
-    "word": "ravages",
+    "word": "massage therapist",
     "partOfSpeech": "n.",
-    "chinese": "破坏，毁灭"
+    "chinese": "按摩师，推拿治疗师"
   },
   {
     "number": 13,
-    "word": "air raids",
-    "partOfSpeech": "n.",
-    "chinese": "空袭，飞机轰炸"
+    "word": "dedicated",
+    "partOfSpeech": "adj.",
+    "chinese": "专用的，专注的，忠诚的"
   },
   {
     "number": 14,
-    "word": "service personnel",
+    "word": "sports medicine staff",
     "partOfSpeech": "n.",
-    "chinese": "军事人员，服务人员"
+    "chinese": "运动医学团队，运动医疗人员"
   },
   {
     "number": 15,
-    "word": "civilians",
-    "partOfSpeech": "n.",
-    "chinese": "平民，非军人"
+    "word": "intensive",
+    "partOfSpeech": "adj.",
+    "chinese": "密集的，强度高的"
   },
   {
     "number": 16,
-    "word": "unshakable",
-    "partOfSpeech": "adj.",
-    "chinese": "坚定的，不可动摇的"
+    "word": "motion",
+    "partOfSpeech": "n.",
+    "chinese": "动作，运动"
   },
   {
     "number": 17,
-    "word": "steadfastness",
-    "partOfSpeech": "n.",
-    "chinese": "坚定，忠诚"
+    "word": "detrimental",
+    "partOfSpeech": "adj.",
+    "chinese": "有害的，不利的"
   },
   {
     "number": 18,
-    "word": "solemn",
-    "partOfSpeech": "adj.",
-    "chinese": "庄重的，严肃的"
+    "word": "vary it up",
+    "partOfSpeech": "v.",
+    "chinese": "变化，使多样化"
   },
   {
     "number": 19,
-    "word": "Commemoration",
-    "partOfSpeech": "n.",
-    "chinese": "纪念，庆典"
+    "word": "cardiovascular",
+    "partOfSpeech": "adj.",
+    "chinese": "心血管的"
   },
   {
     "number": 20,
-    "word": "procession",
+    "word": "physicians",
     "partOfSpeech": "n.",
-    "chinese": "队伍，行列"
+    "chinese": "医生，内科医师"
   },
   {
     "number": 21,
-    "word": "trucks",
-    "partOfSpeech": "n.",
-    "chinese": "卡车，货车"
+    "word": "seek advice",
+    "partOfSpeech": "v.",
+    "chinese": "寻求建议，征询意见"
   },
   {
     "number": 22,
-    "word": "veterans",
+    "word": "orthopedic surgeon",
     "partOfSpeech": "n.",
-    "chinese": "老兵，资深人员"
-  },
-  {
-    "number": 23,
-    "word": "parade",
-    "partOfSpeech": "n.",
-    "chinese": "游行，阅兵"
+    "chinese": "骨科医生，骨科外科医师"
   }
 ]

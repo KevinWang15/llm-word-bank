@@ -1,116 +1,194 @@
 [
   {
     "number": 1,
-    "word": "expert",
+    "word": "underdog",
     "partOfSpeech": "n.",
-    "chinese": "专家，内行"
+    "chinese": "处于劣势的一方;非热门团队或个人"
   },
   {
     "number": 2,
-    "word": "senses",
+    "word": "penalty shot",
     "partOfSpeech": "n.",
-    "chinese": "感觉，感官"
+    "chinese": "罚球机会;违规后的得分机会"
   },
   {
     "number": 3,
-    "word": "still",
-    "partOfSpeech": "adj.",
-    "chinese": "静止的，平静的"
+    "word": "tournament",
+    "partOfSpeech": "n.",
+    "chinese": "锦标赛;比赛"
   },
   {
     "number": 4,
-    "word": "vague",
-    "partOfSpeech": "adj.",
-    "chinese": "模糊的，不清楚的"
+    "word": "montages",
+    "partOfSpeech": "n.",
+    "chinese": "蒙太奇;通过拼接的片段组合成的影片或画面"
   },
   {
     "number": 5,
-    "word": "brewing",
+    "word": "glorify",
     "partOfSpeech": "v.",
-    "chinese": "即将发生的，酝酿中的"
+    "chinese": "赞美;歌颂"
   },
   {
     "number": 6,
-    "word": "sailors",
-    "partOfSpeech": "n.",
-    "chinese": "水手，船员"
+    "word": "obsessed",
+    "partOfSpeech": "adj.",
+    "chinese": "着迷的;沉迷的"
   },
   {
     "number": 7,
-    "word": "took note of",
-    "partOfSpeech": "v.",
-    "chinese": "注意到，观察到"
+    "word": "pastime",
+    "partOfSpeech": "n.",
+    "chinese": "消遣;娱乐活动"
   },
   {
     "number": 8,
-    "word": "sight",
-    "partOfSpeech": "n.",
-    "chinese": "视野，视线"
+    "word": "strengthening",
+    "partOfSpeech": "v.",
+    "chinese": "加强;使变得更强"
   },
   {
     "number": 9,
-    "word": "detect",
-    "partOfSpeech": "v.",
-    "chinese": "检测，发现"
+    "word": "cholesterol",
+    "partOfSpeech": "n.",
+    "chinese": "胆固醇"
   },
   {
     "number": 10,
-    "word": "odors",
+    "word": "arteries",
     "partOfSpeech": "n.",
-    "chinese": "气味，臭味"
+    "chinese": "动脉"
   },
   {
     "number": 11,
-    "word": "repressed",
-    "partOfSpeech": "v.",
-    "chinese": "抑制，遏制"
+    "word": "stroke",
+    "partOfSpeech": "n.",
+    "chinese": "中风;脑卒中"
   },
   {
     "number": 12,
-    "word": "low",
+    "word": "diabetes",
     "partOfSpeech": "n.",
-    "chinese": "低压，低气压"
+    "chinese": "糖尿病"
   },
   {
     "number": 13,
-    "word": "lessens",
-    "partOfSpeech": "v.",
-    "chinese": "减少，缩小"
+    "word": "endorphins",
+    "partOfSpeech": "n.",
+    "chinese": "内啡肽;一种能减轻痛感并引起愉悦的脑内物质"
   },
   {
     "number": 14,
-    "word": "approaching",
-    "partOfSpeech": "adj.",
-    "chinese": "接近，逼近的"
+    "word": "hormones",
+    "partOfSpeech": "n.",
+    "chinese": "荷尔蒙;体内分泌的调节物质"
   },
   {
     "number": 15,
-    "word": "bounce off",
-    "partOfSpeech": "v.",
-    "chinese": "反弹，弹起"
+    "word": "nervous system",
+    "partOfSpeech": "n.",
+    "chinese": "神经系统"
   },
   {
     "number": 16,
-    "word": "stormy",
-    "partOfSpeech": "adj.",
-    "chinese": "暴风雨的，风暴的"
+    "word": "euphoria",
+    "partOfSpeech": "n.",
+    "chinese": "欣快感;极度愉悦"
   },
   {
     "number": 17,
-    "word": "betide",
-    "partOfSpeech": "v.",
-    "chinese": "发生，遭遇"
+    "word": "a runner's high",
+    "partOfSpeech": "n.",
+    "chinese": "跑者的愉悦感;长跑后产生的愉快体验"
   },
   {
     "number": 18,
-    "word": "joints",
-    "partOfSpeech": "n.",
-    "chinese": "关节，接头"
+    "word": "sharpen",
+    "partOfSpeech": "v.",
+    "chinese": "提高;使更为敏锐"
   },
   {
     "number": 19,
-    "word": "humidity",
+    "word": "communal",
+    "partOfSpeech": "adj.",
+    "chinese": "公共的;社区的"
+  },
+  {
+    "number": 20,
+    "word": "commitment",
     "partOfSpeech": "n.",
-    "chinese": "湿度，湿气"
+    "chinese": "承诺;献身"
+  },
+  {
+    "number": 21,
+    "word": "self-esteem",
+    "partOfSpeech": "n.",
+    "chinese": "自尊;自我评价"
+  },
+  {
+    "number": 22,
+    "word": "boost",
+    "partOfSpeech": "n.",
+    "chinese": "提升;增强"
+  },
+  {
+    "number": 23,
+    "word": "reinforce",
+    "partOfSpeech": "v.",
+    "chinese": "加强;强化"
+  },
+  {
+    "number": 24,
+    "word": "growth",
+    "partOfSpeech": "n.",
+    "chinese": "增长;发展"
+  },
+  {
+    "number": 25,
+    "word": "mindset",
+    "partOfSpeech": "n.",
+    "chinese": "思维模式;心态"
+  },
+  {
+    "number": 26,
+    "word": "transformative",
+    "partOfSpeech": "adj.",
+    "chinese": "具有变革性的;有深刻影响的"
+  },
+  {
+    "number": 27,
+    "word": "resilience",
+    "partOfSpeech": "n.",
+    "chinese": "适应力;恢复力"
+  },
+  {
+    "number": 28,
+    "word": "self-awareness",
+    "partOfSpeech": "n.",
+    "chinese": "自我意识;自知之明"
+  },
+  {
+    "number": 29,
+    "word": "hurdles",
+    "partOfSpeech": "n.",
+    "chinese": "障碍;困难"
+  },
+  {
+    "number": 30,
+    "word": "competitive",
+    "partOfSpeech": "adj.",
+    "chinese": "竞争的;好竞争的"
+  },
+  {
+    "number": 31,
+    "word": "strengths",
+    "partOfSpeech": "n.",
+    "chinese": "优势;长处"
+  },
+  {
+    "number": 32,
+    "word": "nurturing",
+    "partOfSpeech": "v.",
+    "chinese": "养育;培养"
   }
 ]

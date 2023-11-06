@@ -1,110 +1,140 @@
 [
   {
     "number": 1,
-    "word": "immigrated",
-    "partOfSpeech": "v.",
-    "chinese": "移民，迁移到（表示从一个国家迁移到另一个国家）"
+    "word": "heavyweight",
+    "partOfSpeech": "n.",
+    "chinese": "重量级，特指重量级拳击手"
   },
   {
     "number": 2,
-    "word": "thrived",
-    "partOfSpeech": "v.",
-    "chinese": "茁壮成长，兴旺发达"
+    "word": "outrageously",
+    "partOfSpeech": "adv.",
+    "chinese": "过度地，令人难以置信地"
   },
   {
     "number": 3,
-    "word": "urban",
+    "word": "lavish",
     "partOfSpeech": "adj.",
-    "chinese": "城市的，都市的"
+    "chinese": "奢侈的，过度的，大手大脚的"
   },
   {
     "number": 4,
-    "word": "secretarial",
-    "partOfSpeech": "adj.",
-    "chinese": "秘书的，与秘书工作相关的"
+    "word": "bankruptcy",
+    "partOfSpeech": "n.",
+    "chinese": "破产"
   },
   {
     "number": 5,
-    "word": "executive",
-    "partOfSpeech": "n.",
-    "chinese": "高级管理人员，执行官"
+    "word": "squandered",
+    "partOfSpeech": "v.",
+    "chinese": "挥霍，浪费"
   },
   {
     "number": 6,
-    "word": "rare wood",
-    "partOfSpeech": "n.",
-    "chinese": "稀有木材，罕见的木头"
+    "word": "high maintenance",
+    "partOfSpeech": "adj.",
+    "chinese": "高维护的，需要大量花费维护的"
   },
   {
     "number": 7,
-    "word": "display",
+    "word": "racquetball",
     "partOfSpeech": "n.",
-    "chinese": "展示，展览"
+    "chinese": "壁球，一种室内球类运动"
   },
   {
     "number": 8,
-    "word": "windblown",
-    "partOfSpeech": "adj.",
-    "chinese": "被风吹散的，飘散的"
+    "word": "gym",
+    "partOfSpeech": "n.",
+    "chinese": "健身房"
   },
   {
     "number": 9,
-    "word": "gaze",
+    "word": "screening room",
     "partOfSpeech": "n.",
-    "chinese": "凝视，注视"
+    "chinese": "放映室，专用于观看电影的房间"
   },
   {
     "number": 10,
-    "word": "hit-and-run",
-    "partOfSpeech": "adj.",
-    "chinese": "肇事逃逸的"
+    "word": "master bedroom",
+    "partOfSpeech": "n.",
+    "chinese": "主卧室，主要的卧室"
   },
   {
     "number": 11,
-    "word": "permanent",
-    "partOfSpeech": "adj.",
-    "chinese": "永久的，持久的"
+    "word": "lawn care",
+    "partOfSpeech": "n.",
+    "chinese": "草坪护理，草地维护"
   },
   {
     "number": 12,
-    "word": "limp",
+    "word": "trainer",
     "partOfSpeech": "n.",
-    "chinese": "跛行，蹒跚"
+    "chinese": "训练师，教练"
   },
   {
     "number": 13,
-    "word": "schooling",
+    "word": "Bentley convertibles",
     "partOfSpeech": "n.",
-    "chinese": "学校教育，学识"
+    "chinese": "宾利敞篷车"
   },
   {
     "number": 14,
-    "word": "self-taught",
-    "partOfSpeech": "adj.",
-    "chinese": "自学成才的，非正规途径学习的"
+    "word": "promoter",
+    "partOfSpeech": "n.",
+    "chinese": "推广者，促进者，特指拳击比赛的推广者"
   },
   {
     "number": 15,
-    "word": "wholesale",
-    "partOfSpeech": "adj.",
-    "chinese": "批发的"
+    "word": "accuses of",
+    "partOfSpeech": "v.",
+    "chinese": "指责，控告"
   },
   {
     "number": 16,
-    "word": "commuted",
-    "partOfSpeech": "v.",
-    "chinese": "通勤，往返上下班或工作"
+    "word": "earnings",
+    "partOfSpeech": "n.",
+    "chinese": "收益，收入"
   },
   {
     "number": 17,
-    "word": "traded",
+    "word": "suing",
     "partOfSpeech": "v.",
-    "chinese": "交换，用...交换"
+    "chinese": "起诉，控告"
   },
   {
     "number": 18,
-    "word": "isolated",
-    "partOfSpeech": "adj.",
-    "chinese": "孤立的，偏远的"
+    "word": "biting",
+    "partOfSpeech": "v.",
+    "chinese": "咬"
+  },
+  {
+    "number": 19,
+    "word": "being convicted of",
+    "partOfSpeech": "v.",
+    "chinese": "被定罪，被判有罪"
+  },
+  {
+    "number": 20,
+    "word": "rape",
+    "partOfSpeech": "n.",
+    "chinese": "强奸，性侵犯"
+  },
+  {
+    "number": 21,
+    "word": "non-payment",
+    "partOfSpeech": "n.",
+    "chinese": "未支付，拖欠"
+  },
+  {
+    "number": 22,
+    "word": "filing bankruptcy",
+    "partOfSpeech": "v.",
+    "chinese": "申请破产"
+  },
+  {
+    "number": 23,
+    "word": "fornicating",
+    "partOfSpeech": "v.",
+    "chinese": "通奸，淫乱"
   }
 ]

@@ -1,81 +1,71 @@
-# P5T1
+# The Dedication Needed to Become an Olympic Athlete
 
 ## Transcript
 
 
-On the 25th of April each year, Australia and New Zealand celebrate Anzac Day when they **commemorate** all the members of the Australian and New Zealand **Army Corps** who died in action during the First and Second World Wars, and in every **armed conflict** since then. We're here now at the Australian War **Memorial** at the start of the **Dawn** Service.
+It's unbelievable how much effort and how much work, not just over any one day, but over the **course** of a lifetime these athletes put into it. I mean,  I can't imagine how they can have normal jobs. I mean, you're talking about training 6, 7, 8 hours a day, sometimes longer, over, you know, years, sometimes decades.
 
-They shall grow not old, as we that are left grow old. Age shall not **weary** them. Nor the years **condemn**, at the going down of the sun, and in the morning, we will remember them, **lest** we forget.
+I mean, a lot of these... Most of these athletes have started at six, seven, eight years old in whatever that sport is. So, the **dedication** is **tremendous**. But you also have to remember that these are the **cream of the crop**. I mean, most athletes  don't get to that point. It's a **combination** of skill, you know, having the **innate** ability to do whatever that sport is, and then having the **work ethic** on top of that.
 
-A **verse** from the poem, **Ode** to Remembrance, by Lawrence Binyon, is **recited** during the ceremony.
+Work ethic alone isn't going to get you there. You have to be a naturally gifted athlete. So, the combination of those two is really incredible. 
 
-> ... O we are young and free, In history's page letter we see...
+I think it's amazing how much of an **entourage** has gone into professional sports. Not just at the Olympic level, but at all levels. Teams now travel with athletic trainers and **strength and conditioning coaches**. Really, like you say, usually **have access** at least to a **nutritionist** and people like that. I think it really depends.
 
-Inside the Hall of Memory is the Tomb of the Unknown Soldier. This is the grave of a soldier whose identity is not known, and it represents all those soldiers who died in battle, but were not identified.
+A lot of times the teams, such as say the U. S. Olympic teams, each sport, U. S.  swimming, U. S. A.  They're all going to have their own trainers, their own strength and conditioning coaches, things like that. When you get to the athletes that are well paid, the professional athletes that make a lot of money, they may have their own personal strength and conditioning coach and personal athletic trainer and **massage therapist**.
 
-> 24 years after the **ravages** of World War I, war came to the mainland of Australia, where **air raids** killed hundreds of **service personnel** and **civilians**. In Malaya, Korea and Vietnam, we answered the call, as we have in Afghanistan and Iraq. Through it all, the one **unshakable** truth has been a **steadfastness** born of the traditions of the Australian servicemen. Today, Australia's special day. They remember in East Timor, on Bougainville, in Afghanistan and Iraq, on the island of Crete, at Gallipoli. They, along with us, remember.
+It really just depends, but at least in the United States, at the national level, almost all of the sports now have a very **dedicated** **sports medicine staff** that usually travels with the team.
 
-Anzac Day is a public holiday in Australia. It is one of the most important national days of the year, and certainly the most **solemn** one.
+It's really difficult to say how much training because it's not the same for every. person and it's not the same for every sport. Typically, some of these athletes especially can go six to twelve hours a day doing what it is they do. One of the problems you get into though with that long and that **intensive** training is that if it's in the same activity, the same, say, uh, butterfly swimmer, uh, doing the same **motion** over and over and over again for hours and hours and hours, um, That can start to be **detrimental**.
 
-**Commemoration** services are held in all the major cities in Australia, and huge crowds attend to pay their respects to those who died.
+Whereas if they **vary it up** a little bit, maybe not so much. It really depends also, you know, how good a **cardiovascular** shape they're in, how, um, strong they are, how good their muscle strength is to support their bodies.
 
-Servicemen and women from all the armed services in Australia march in **procession**.
+I think, you know, the professional athletes, the Olympic athletes, have the benefit of having done whatever their sport is for so long. They know their bodies. They know that pain is normal. I can just run through it or I can just swim through it or whatever.  They also know what's not normal, what really hurts and they have access to the top **physicians**, the top trainers in the world.
 
-They fought in the Second World War and other conflicts since then that have happened around the world.
-
-The men in the **trucks** are all wearing decorations. They're **veterans** from the Second World War, and perhaps a few last survivors from the First World War.
-
-After the **parade**, the veterans will gather in a pub or club to talk and share memories.
-
-This veteran fought in the Second World War in Western Australia.
-
-> And what does ANZAC Day mean to you? Well, it means, uh, remembering not only those that didn't go home, but, uh, the, uh, the fact, uh, that you've, uh, keep in touch with a lot of your, uh, friends.
+I think what you can take out of that is one, you know, know that you can really push yourself most of the time and do...  Great, do really well, but you have to listen to your body and know when, you know, pain is unusual or really uncomfortable, you know, to **seek advice**. You don't have your own personal **orthopedic surgeon**, obviously, but just know that, you know, this is not normal and I need to stop and re evaluate.
 
 ## Word Bank
 
-1. **commemorate**: *[v.]* 纪念，庆祝
-    - On the 25th of April each year, Australia and New Zealand celebrate Anzac Day when they **commemorate** all the members of the Australian and New Zealand Army Corps who died in action during the First and Second World Wars, and in every armed conflict since then.
-2. **army corps**: *[n.]* 军团，陆军部队
-    - On the 25th of April each year, Australia and New Zealand celebrate Anzac Day when they commemorate all the members of the Australian and New Zealand **Army Corps** who died in action during the First and Second World Wars, and in every armed conflict since then.
-3. **armed conflict**: *[n.]* 武装冲突，战争
-    - On the 25th of April each year, Australia and New Zealand celebrate Anzac Day when they commemorate all the members of the Australian and New Zealand Army Corps who died in action during the First and Second World Wars, and in every **armed conflict** since then.
-4. **memorial**: *[n.]* 纪念碑，纪念馆
-    - We're here now at the Australian War **Memorial** at the start of the Dawn Service.
-5. **dawn**: *[n.]* 黎明，拂晓
-    - We're here now at the Australian War Memorial at the start of the **Dawn** Service.
-6. **weary**: *[adj.]* 疲惫的，累的
-    - Age shall not **weary** them.
-7. **condemn**: *[v.]* 谴责，定罪
-    - Nor the years **condemn**, at the going down of the sun, and in the morning, we will remember them, lest we forget.
-8. **lest**: *[adv.]* 以免，担心
-    - Nor the years condemn, at the going down of the sun, and in the morning, we will remember them, **lest** we forget.
-9. **verse**: *[n.]* 诗句，韵文
-    - A **verse** from the poem, Ode to Remembrance, by Lawrence Binyon, is recited during the ceremony.
-10. **ode**: *[n.]* 颂歌，长诗
-    - A verse from the poem, **Ode** to Remembrance, by Lawrence Binyon, is recited during the ceremony.
-11. **recite**: *[v.]* 朗诵，背诵
-    - A verse from the poem, Ode to Remembrance, by Lawrence Binyon, is **recited** during the ceremony.
-12. **ravage**: *[n.]* 破坏，毁灭
-    - > 24 years after the **ravages** of World War I, war came to the mainland of Australia, where air raids killed hundreds of service personnel and civilians.
-13. **air raid**: *[n.]* 空袭，飞机轰炸
-    - > 24 years after the ravages of World War I, war came to the mainland of Australia, where **air raids** killed hundreds of service personnel and civilians.
-14. **service personnel**: *[n.]* 军事人员，服务人员
-    - > 24 years after the ravages of World War I, war came to the mainland of Australia, where air raids killed hundreds of **service personnel** and civilians.
-15. **civilian**: *[n.]* 平民，非军人
-    - > 24 years after the ravages of World War I, war came to the mainland of Australia, where air raids killed hundreds of service personnel and **civilians**.
-16. **unshakable**: *[adj.]* 坚定的，不可动摇的
-    - Through it all, the one **unshakable** truth has been a steadfastness born of the traditions of the Australian servicemen.
-17. **steadfastness**: *[n.]* 坚定，忠诚
-    - Through it all, the one unshakable truth has been a **steadfastness** born of the traditions of the Australian servicemen.
-18. **solemn**: *[adj.]* 庄重的，严肃的
-    - It is one of the most important national days of the year, and certainly the most **solemn** one.
-19. **commemoration**: *[n.]* 纪念，庆典
-    - **Commemoration** services are held in all the major cities in Australia, and huge crowds attend to pay their respects to those who died.
-20. **procession**: *[n.]* 队伍，行列
-    - Servicemen and women from all the armed services in Australia march in **procession**.
-21. **truck**: *[n.]* 卡车，货车
-    - The men in the **trucks** are all wearing decorations.
-22. **veteran**: *[n.]* 老兵，资深人员
-    - They're **veterans** from the Second World War, and perhaps a few last survivors from the First World War.
-23. **parade**: *[n.]* 游行，阅兵
-    - After the **parade**, the veterans will gather in a pub or club to talk and share memories.
+1. **course**: *[n.]* 过程，进程
+    - It's unbelievable how much effort and how much work, not just over any one day, but over the **course** of a lifetime these athletes put into it.
+2. **dedication**: *[n.]* 奉献，致力，执着
+    - So, the **dedication** is tremendous.
+3. **tremendous**: *[adj.]* 巨大的，极其的，惊人的
+    - So, the dedication is **tremendous**.
+4. **cream of the crop**: *[n.]* 最优秀的一部分，精英，佼佼者
+    - But you also have to remember that these are the **cream of the crop**.
+5. **combination**: *[n.]* 组合，结合
+    - It's a **combination** of skill, you know, having the innate ability to do whatever that sport is, and then having the work ethic on top of that.
+6. **innate**: *[adj.]* 天生的，固有的
+    - It's a combination of skill, you know, having the **innate** ability to do whatever that sport is, and then having the work ethic on top of that.
+7. **work ethic**: *[n.]* 工作态度 (通过勤奋换取回报的态度)
+    - It's a combination of skill, you know, having the innate ability to do whatever that sport is, and then having the **work ethic** on top of that.
+8. **entourage**: *[n.]* 随行人员，团队，随员
+    - I think it's amazing how much of an **entourage** has gone into professional sports.
+9. **strength and conditioning coach**: *[n.]* 力量和体能教练
+    - Teams now travel with athletic trainers and **strength and conditioning coaches**.
+10. **have access to**: *[v.]* 有权使用，可以接触
+    - Really, like you say, usually **have access** at least to a nutritionist and people like that.
+11. **nutritionist**: *[n.]* 营养学家，营养师
+    - Really, like you say, usually have access at least to a **nutritionist** and people like that.
+12. **massage therapist**: *[n.]* 按摩师，推拿治疗师
+    - When you get to the athletes that are well paid, the professional athletes that make a lot of money, they may have their own personal strength and conditioning coach and personal athletic trainer and **massage therapist**.
+13. **dedicated**: *[adj.]* 专用的，专注的，忠诚的
+    - It really just depends, but at least in the United States, at the national level, almost all of the sports now have a very **dedicated** sports medicine staff that usually travels with the team.
+14. **sports medicine staff**: *[n.]* 运动医学团队，运动医疗人员
+    - It really just depends, but at least in the United States, at the national level, almost all of the sports now have a very dedicated **sports medicine staff** that usually travels with the team.
+15. **intense**: *[adj.]* 密集的，强度高的
+    - One of the problems you get into though with that long and that **intensive** training is that if it's in the same activity, the same, say, uh, butterfly swimmer, uh, doing the same motion over and over and over again for hours and hours and hours, um, That can start to be detrimental.
+16. **motion**: *[n.]* 动作，运动
+    - One of the problems you get into though with that long and that intensive training is that if it's in the same activity, the same, say, uh, butterfly swimmer, uh, doing the same **motion** over and over and over again for hours and hours and hours, um, That can start to be detrimental.
+17. **detrimental**: *[adj.]* 有害的，不利的
+    - One of the problems you get into though with that long and that intensive training is that if it's in the same activity, the same, say, uh, butterfly swimmer, uh, doing the same motion over and over and over again for hours and hours and hours, um, That can start to be **detrimental**.
+18. **vary up**: *[v.]* 变化，使多样化
+    - Whereas if they **vary it up** a little bit, maybe not so much.
+19. **cardiovascular**: *[adj.]* 心血管的
+    - It really depends also, you know, how good a **cardiovascular** shape they're in, how, um, strong they are, how good their muscle strength is to support their bodies.
+20. **physician**: *[n.]* 医生，内科医师
+    - They also know what's not normal, what really hurts and they have access to the top **physicians**, the top trainers in the world.
+21. **seek advice**: *[v.]* 寻求建议，征询意见
+    - I think what you can take out of that is one, you know, know that you can really push yourself most of the time and do...  Great, do really well, but you have to listen to your body and know when, you know, pain is unusual or really uncomfortable, you know, to **seek advice**.
+22. **orthopedic surgeon**: *[n.]* 骨科医生，骨科外科医师
+    - You don't have your own personal **orthopedic surgeon**, obviously, but just know that, you know, this is not normal and I need to stop and re evaluate.
