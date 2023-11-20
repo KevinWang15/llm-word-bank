@@ -1,5 +1,14 @@
 [
-  {"number": 1, "word": "uniforms", "partOfSpeech": "n.", "chinese": "制服，特定的衣服，主要用于某些职业或活动中，例如运动员在比赛中穿的特定服装"},
-  {"number": 2, "word": "score points", "partOfSpeech": "v.", "chinese": "得分，通过某种方式（如运球、传球或踢球）在比赛中赢得分数"},
-  {"number": 3, "word": "widows", "partOfSpeech": "n.", "chinese": "遗孀，这里特指那些因丈夫喜欢看橄榄球而感到孤独的妇女"}
+    {"number": 1, "word": "course", "partOfSpeech": "n.", "chinese": "菜品，一餐中的一道菜"},
+    {"number": 2, "word": "starter", "partOfSpeech": "n.", "chinese": "开胃菜，餐前小吃"},
+    {"number": 3, "word": "serving", "partOfSpeech": "n.", "chinese": "一份，指食物的一份量"},
+    {"number": 4, "word": "dessert", "partOfSpeech": "n.", "chinese": "甜点，餐后的甜食"},
+    {"number": 5, "word": "portion", "partOfSpeech": "n.", "chinese": "一份，食物的分量或部分"},
+    {"number": 6, "word": "tuna", "partOfSpeech": "n.", "chinese": "金枪鱼，一种常见的海鱼"},
+    {"number": 7, "word": "fudge", "partOfSpeech": "n.", "chinese": "法奇软糖，乳脂软糖（用糖、黄油和牛奶制成）"},
+    {"number": 8, "word": "pasta", "partOfSpeech": "n.", "chinese": "意大利面，意式面食，由小麦粉制成"},
+    {"number": 9, "word": "spaghetti", "partOfSpeech": "n.", "chinese": "意大利细面条，一种细长形的意大利面"},
+    {"number": 10, "word": "spicy", "partOfSpeech": "adj.", "chinese": "辣的，味道辛辣"},
+    {"number": 11, "word": "fried", "partOfSpeech": "adj.", "chinese": "油炸的，经过油炸处理的食物"},
+    {"number": 12, "word": "roast beef", "partOfSpeech": "n.", "chinese": "烤牛肉，通过烤制方式烹饪的牛肉"}
 ]

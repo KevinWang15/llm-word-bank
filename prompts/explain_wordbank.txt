@@ -1,14 +1,21 @@
 ```
-# Text 1: American football
+# Part 1: WARMING UP
 
-For a long time, baseball was the most popular sport in the United States. But now, football is probably the most popular sport. It is also very popular in Canada.  In the fall, students in high schools and colleges and professional players all over the country play football.  Football players wear strange looking [1.uniforms] to protect them because it is a rough game, which can be dangerous.
+Sometimes we may go out to eat food. Perhaps we will go to a restaurant and order some food from the menu. The person who serves you at the table is called a waiter. Or, if they are female, a waitress. The meal is usually divided into sections. Each one is called a [1.course].
 
-The object, or goal of the game, is to carry the football from one end of the field to the other.  Players can run with the ball, throw it, or sometimes even kick it to [2.score points].  Now, most good high school football players can enter an American university easily.  The best college football players often become professional players.
+First, there is the [2.starter], which is normally a small [3.serving] of food, such as soup or salad. Some people do not have a starter, worrying that they may have trouble finishing the main meal. Then, there is the main course, which is the largest part of the meal. Finally, there is the [4.dessert], which can also be called the sweet.
 
-Many professional players are rich and famous, but they usually don't play for more than six or eight years.  Football might be hard for most people to play, but it's certainly fun to watch. From September through January, people all over the country spend weekends and Monday nights in front of the TV set.
+This is normally a small [5.portion] of ice cream or hot pudding or cake.
 
-Football [3.widows] are wives who don't like to watch football. Of course, these women hate this time of year.
+Coffee is usually offered at the end of a meal too. Of course, the meal must be paid for. So you will call the waiter or waitress over and ask for the bill. Or check.
 
+Good evening sir. Can I take your order? Yes, please. I would like the [6.tuna] salad to start. And for the main course, I would like to have the steak. Ah, that's an excellent choice. Would you like a sweet to follow? Hmm, yes please. I would like the hot chocolate [7.fudge] ice cream. And any drinks to go with your meal?
+
+I think I will have a bottle of red wine, please, to go with the main course. Very good. Enjoy your meal.
+
+Did you enjoy your meal, sir? Yes, that was delicious. Thank you very much. I'm so full now. Could I have the bill, please? Certainly. No problem.
+
+Yeah. Every country around the world has its own special type of food. For example, Italy is well known for [8.pasta] and [9.spaghetti]. India is well known for its hot [10.spicy] dishes. China is well known for its [11.fried] food. The UK is famous for Fish and chips, [12.roast beef] and Yorkshire pudding.
 ```
 
 原文中有多个方括号，方括号内是编号+单词。

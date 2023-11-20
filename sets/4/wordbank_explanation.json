@@ -1,134 +1,170 @@
 [
   {
     "number": 1,
-    "word": "course",
-    "partOfSpeech": "n.",
-    "chinese": "过程，进程"
+    "word": "slaughtered",
+    "partOfSpeech": "v.",
+    "chinese": "宰杀，指在屠宰场杀死动物取肉"
   },
   {
     "number": 2,
-    "word": "dedication",
-    "partOfSpeech": "n.",
-    "chinese": "奉献，致力，执着"
+    "word": "dropped off",
+    "partOfSpeech": "v.",
+    "chinese": "送达，指把鸡送到农场的行为"
   },
   {
     "number": 3,
-    "word": "tremendous",
-    "partOfSpeech": "adj.",
-    "chinese": "巨大的，极其的，惊人的"
+    "word": "set a model",
+    "partOfSpeech": "v.",
+    "chinese": "树立模范，指在某个领域成为值得效仿的典范"
   },
   {
     "number": 4,
-    "word": "cream of the crop",
+    "word": "integration",
     "partOfSpeech": "n.",
-    "chinese": "最优秀的一部分，精英，佼佼者"
+    "chinese": "集成，指各个部分或方面合并为一个整体的过程"
   },
   {
     "number": 5,
-    "word": "combination",
+    "word": "processing",
     "partOfSpeech": "n.",
-    "chinese": "组合，结合"
+    "chinese": "加工，指将原材料或半成品转变为成品的过程"
   },
   {
     "number": 6,
-    "word": "innate",
+    "word": "tremendous",
     "partOfSpeech": "adj.",
-    "chinese": "天生的，固有的"
+    "chinese": "巨大的，表示非常大或极其显著的"
   },
   {
     "number": 7,
-    "word": "work ethic",
-    "partOfSpeech": "n.",
-    "chinese": "工作态度 (通过勤奋换取回报的态度)"
+    "word": "mechanized",
+    "partOfSpeech": "adj.",
+    "chinese": "机械化的，指使用机器进行生产或工作的"
   },
   {
     "number": 8,
-    "word": "entourage",
-    "partOfSpeech": "n.",
-    "chinese": "随行人员，团队，随员"
+    "word": "intensive",
+    "partOfSpeech": "adj.",
+    "chinese": "密集的，指用尽可能少的资源或空间获得最大产出的"
   },
   {
     "number": 9,
-    "word": "strength and conditioning coaches",
-    "partOfSpeech": "n.",
-    "chinese": "力量和体能教练"
+    "word": "accomplishes",
+    "partOfSpeech": "v.",
+    "chinese": "完成，指成功地完成或实现某事"
   },
   {
     "number": 10,
-    "word": "have access",
-    "partOfSpeech": "v.",
-    "chinese": "有权使用，可以接触"
+    "word": "affordable",
+    "partOfSpeech": "adj.",
+    "chinese": "负担得起的，指价格合理，大多数人能买得起的"
   },
   {
     "number": 11,
-    "word": "nutritionist",
+    "word": "contract",
     "partOfSpeech": "n.",
-    "chinese": "营养学家，营养师"
+    "chinese": "合同，指两个或多个方之间的正式协议或契约"
   },
   {
     "number": 12,
-    "word": "massage therapist",
+    "word": "sunlight",
     "partOfSpeech": "n.",
-    "chinese": "按摩师，推拿治疗师"
+    "chinese": "阳光，指太阳发出的光线"
   },
   {
     "number": 13,
-    "word": "dedicated",
-    "partOfSpeech": "adj.",
-    "chinese": "专用的，专注的，忠诚的"
+    "word": "in the dark",
+    "partOfSpeech": "adv.",
+    "chinese": "在黑暗中，在没有光线的环境中"
   },
   {
     "number": 14,
-    "word": "sports medicine staff",
+    "word": "pay",
     "partOfSpeech": "n.",
-    "chinese": "运动医学团队，运动医疗人员"
+    "chinese": "支付，指给予金钱作为报酬或薪水"
   },
   {
     "number": 15,
-    "word": "intensive",
+    "word": "nasty",
     "partOfSpeech": "adj.",
-    "chinese": "密集的，强度高的"
+    "chinese": "令人不快的，指非常不干净或让人感到不舒服的"
   },
   {
     "number": 16,
-    "word": "motion",
+    "word": "feces",
     "partOfSpeech": "n.",
-    "chinese": "动作，运动"
+    "chinese": "粪便，动物排泄的废物"
   },
   {
     "number": 17,
-    "word": "detrimental",
-    "partOfSpeech": "adj.",
-    "chinese": "有害的，不利的"
+    "word": "farming",
+    "partOfSpeech": "n.",
+    "chinese": "耕作，指种植作物和养殖动物的农业活动"
   },
   {
     "number": 18,
-    "word": "vary it up",
-    "partOfSpeech": "v.",
-    "chinese": "变化，使多样化"
+    "word": "mass production",
+    "partOfSpeech": "n.",
+    "chinese": "大规模生产，指使用流水线和其他工业化方法大量生产商品的过程"
   },
   {
     "number": 19,
-    "word": "cardiovascular",
-    "partOfSpeech": "adj.",
-    "chinese": "心血管的"
+    "word": "assembly line",
+    "partOfSpeech": "n.",
+    "chinese": "装配线，一种生产方式，产品在流水线上逐步完成组装或加工"
   },
   {
     "number": 20,
-    "word": "physicians",
+    "word": "internal organs",
     "partOfSpeech": "n.",
-    "chinese": "医生，内科医师"
+    "chinese": "内脏器官，指身体内部的器官"
   },
   {
     "number": 21,
-    "word": "seek advice",
+    "word": "plop down",
     "partOfSpeech": "v.",
-    "chinese": "寻求建议，征询意见"
+    "chinese": "重重倒下，指突然或无力地坐下或倒下"
   },
   {
     "number": 22,
-    "word": "orthopedic surgeon",
+    "word": "weight",
     "partOfSpeech": "n.",
-    "chinese": "骨科医生，骨科外科医师"
+    "chinese": "重量"
+  },
+  {
+    "number": 23,
+    "word": "antibiotics",
+    "partOfSpeech": "n.",
+    "chinese": "抗生素"
+  },
+  {
+    "number": 24,
+    "word": "feed",
+    "partOfSpeech": "n.",
+    "chinese": "饲料，指给动物吃的食物"
+  },
+  {
+    "number": 25,
+    "word": "bacteria",
+    "partOfSpeech": "n.",
+    "chinese": "细菌"
+  },
+  {
+    "number": 26,
+    "word": "builds up",
+    "partOfSpeech": "v.",
+    "chinese": "积累，指逐渐增加或累积"
+  },
+  {
+    "number": 27,
+    "word": "resistance",
+    "partOfSpeech": "n.",
+    "chinese": "抵抗力，指对抗生素的耐药性"
+  },
+  {
+    "number": 28,
+    "word": "allergic",
+    "partOfSpeech": "adj.",
+    "chinese": "过敏的"
   }
 ]

@@ -1,90 +1,75 @@
-# Text 3
+# Part 2 Text 2: College Diet
 
 ## Transcript
 
 
-The victory of the **underdog** over the favored team, the last minute **penalty shot** that wins the **tournament**, the high energy training **montages**. Many people love to **glorify** victory on the playing field, cheer for favorite teams and play sports. But here's a question. Should we be so **obsessed** with sports? Is playing sports actually as good for us as we make it out to be?
+With all their classes, **tuition bills**, and homework, many college students don't make eating right a **priority**. When I have a lot of tests, or I have to do a lot of studying, I have to get something fast. For lunch, it's really whatever I can **grab**. I usually eat **snacks**. Fast foods, like french fries, **chicken tenders**, and hamburgers are college dining halls' most popular items, according to recent **surveys**.
 
-Or just a fun and entertaining **pastime**? What does science have to say?  First of all, it's well accepted that exercise is good for our bodies and minds, and that's definitely true.  Exercising, especially when we're young, has all sorts of health benefits, like **strengthening** our bones, clearing out bad **cholesterol** from our **arteries**, and decreasing the risk of **stroke**, high blood pressure, and **diabetes**.
+Carol Kelly, a **nutritionist** at Emory University, gave us a lesson in College Diets **101**.
 
-Our brains also release a number of chemicals when we work out, including **endorphins**. These natural **hormones**, which control pain and pleasure responses in the central **nervous system**, can lead to feelings of **euphoria**, or what's often called **a runner's high**. Increased endorphins and consistent physical activity in general can **sharpen** your focus and improve your mood and memory.
+"Students will choose foods that are quick and easy to eat, **on the run**, and sometimes that comes **at the expense of** having more balance with their diet." Kelly says college dining services have **catered to** student demands for healthier choices, but **honey buns** and hamburgers are still the **grab and go** favorite.
 
-So does that mean we'd get just as much benefit going to the gym five days a week as we would joining a team and competing? Well, here's where it gets interesting. Because it turns out... That if you can find a sport and a team you like, studies show that there are all sorts of benefits that go beyond the physical and mental benefits of exercise alone.
+"The variety is definitely there. They have everything from **stir-fries** to fast foods to hot meals that include vegetables. **Abundant** **salad bars**. However, students still typically will select what they, um, know as familiar and **tasty** to them." Kelly says college students aren't **invincible** to the **consequences** of unhealthy diets.
 
-Some of the most significant are psychological benefits, both in the short and long term.  Some of those come from the **communal** experience of being on a team. For instance, learning to trust and depend on others, to accept help, to give help, and to work together towards a common goal. In addition, **commitment** to a team and doing something fun can also make it easier to establish a regular habit of exercise.
+The Centers for Disease Control reported in their last survey of American college students that one in five students was overweight. "Students may be developing a **template**, a **nutritional** template, a pattern that they're going to take with them into adulthood. Nutrition is involved with increased risk of cardiovascular disease, possibly **diabetes**, um, possibly **hypertension**."
 
-School sport participation has also been shown to reduce the risk of suffering from depression for up to four years. Meanwhile, your **self-esteem** and confidence can get a big **boost**.  There are a few reasons for that. One is found in training. Just by working and working at skills, especially with a good coach, you **reinforce** a **growth** **mindset** within yourself.
+So students, the lesson for the day is talk to your college nutritionist about your diet. In the meantime, here are some simple changes you can make to eat healthier on any college campus.
 
-That's when you say, even if I can't do something today, I can improve myself through practice and achieve it eventually. That mindset is useful in all walks of life. And then there's learning through failure. One of the most **transformative** long term benefits of playing sports.  The experience of coming to terms with defeat can build the **resilience** and **self-awareness** necessary to manage academic, social, and physical **hurdles**.
-
-So even if your team isn't winning all the time, or at all, There is a real benefit to your experience. Now, not everyone will enjoy every sport. Perhaps one team is too **competitive** or not competitive enough. It can also take time to find the sport that plays to your **strengths**. That's completely okay. But if you spend some time looking, you'll be able to find a sport that fits your individual needs.
-
-And if you do. There are so many benefits. You'll be a part of a supportive community. You'll be building your confidence. You'll be exercising your body and you'll be **nurturing** your mind. Not to mention having fun.
-
+"Instead of having simply... Um, **pepperoni pizza**, two or three **slices** of that, maybe have one slice along with the salad. Snacks such as **nuts** and **seeds** along with fresh fruit." I hope you took good notes because this will all be on the final. For Feeling Fit, I'm Elizabeth Cohen.
 
 ## Word Bank
 
-1. **underdog**: *[n.]* 处于劣势的一方;非热门团队或个人
-    - The victory of the **underdog** over the favored team, the last minute penalty shot that wins the tournament, the high energy training montages.
-2. **penalty shot**: *[n.]* 罚球机会;违规后的得分机会
-    - The victory of the underdog over the favored team, the last minute **penalty shot** that wins the tournament, the high energy training montages.
-3. **tournament**: *[n.]* 锦标赛;比赛
-    - The victory of the underdog over the favored team, the last minute penalty shot that wins the **tournament**, the high energy training montages.
-4. **montage**: *[n.]* 蒙太奇;通过拼接的片段组合成的影片或画面
-    - The victory of the underdog over the favored team, the last minute penalty shot that wins the tournament, the high energy training **montages**.
-5. **glorify**: *[v.]* 赞美;歌颂
-    - Many people love to **glorify** victory on the playing field, cheer for favorite teams and play sports.
-6. **obsessed**: *[adj.]* 着迷的;沉迷的
-    - Should we be so **obsessed** with sports?
-7. **pastime**: *[n.]* 消遣;娱乐活动
-    - Or just a fun and entertaining **pastime**?
-8. **strengthen**: *[v.]* 加强;使变得更强
-    - Exercising, especially when we're young, has all sorts of health benefits, like **strengthening** our bones, clearing out bad cholesterol from our arteries, and decreasing the risk of stroke, high blood pressure, and diabetes.
-9. **cholesterol**: *[n.]* 胆固醇
-    - Exercising, especially when we're young, has all sorts of health benefits, like strengthening our bones, clearing out bad **cholesterol** from our arteries, and decreasing the risk of stroke, high blood pressure, and diabetes.
-10. **artery**: *[n.]* 动脉
-    - Exercising, especially when we're young, has all sorts of health benefits, like strengthening our bones, clearing out bad cholesterol from our **arteries**, and decreasing the risk of stroke, high blood pressure, and diabetes.
-11. **stroke**: *[n.]* 中风;脑卒中
-    - Exercising, especially when we're young, has all sorts of health benefits, like strengthening our bones, clearing out bad cholesterol from our arteries, and decreasing the risk of **stroke**, high blood pressure, and diabetes.
-12. **diabetes**: *[n.]* 糖尿病
-    - Exercising, especially when we're young, has all sorts of health benefits, like strengthening our bones, clearing out bad cholesterol from our arteries, and decreasing the risk of stroke, high blood pressure, and **diabetes**.
-13. **endorphin**: *[n.]* 内啡肽;一种能减轻痛感并引起愉悦的脑内物质
-    - Our brains also release a number of chemicals when we work out, including **endorphins**.
-14. **hormone**: *[n.]* 荷尔蒙;体内分泌的调节物质
-    - These natural **hormones**, which control pain and pleasure responses in the central nervous system, can lead to feelings of euphoria, or what's often called a runner's high.
-15. **nervous system**: *[n.]* 神经系统
-    - These natural hormones, which control pain and pleasure responses in the central **nervous system**, can lead to feelings of euphoria, or what's often called a runner's high.
-16. **euphoria**: *[n.]* 欣快感;极度愉悦
-    - These natural hormones, which control pain and pleasure responses in the central nervous system, can lead to feelings of **euphoria**, or what's often called a runner's high.
-17. **a runner’s high**: *[n.]* 跑者的愉悦感;长跑后产生的愉快体验
-    - These natural hormones, which control pain and pleasure responses in the central nervous system, can lead to feelings of euphoria, or what's often called **a runner's high**.
-18. **sharpen**: *[v.]* 提高;使更为敏锐
-    - Increased endorphins and consistent physical activity in general can **sharpen** your focus and improve your mood and memory.
-19. **communal**: *[adj.]* 公共的;社区的
-    - Some of those come from the **communal** experience of being on a team.
-20. **commitment**: *[n.]* 承诺;献身
-    - In addition, **commitment** to a team and doing something fun can also make it easier to establish a regular habit of exercise.
-21. **self-esteem**: *[n.]* 自尊;自我评价
-    - Meanwhile, your **self-esteem** and confidence can get a big boost.
-22. **boost**: *[n.]* 提升;增强
-    - Meanwhile, your self-esteem and confidence can get a big **boost**.
-23. **reinforce**: *[v.]* 加强;强化
-    - Just by working and working at skills, especially with a good coach, you **reinforce** a growth mindset within yourself.
-24. **growth**: *[n.]* 增长;发展
-    - Just by working and working at skills, especially with a good coach, you reinforce a **growth** mindset within yourself.
-25. **mindset**: *[n.]* 思维模式;心态
-    - Just by working and working at skills, especially with a good coach, you reinforce a growth **mindset** within yourself.
-26. **transformative**: *[adj.]* 具有变革性的;有深刻影响的
-    - One of the most **transformative** long term benefits of playing sports.
-27. **resilience**: *[n.]* 适应力;恢复力
-    - The experience of coming to terms with defeat can build the **resilience** and self-awareness necessary to manage academic, social, and physical hurdles.
-28. **self-awareness**: *[n.]* 自我意识;自知之明
-    - The experience of coming to terms with defeat can build the resilience and **self-awareness** necessary to manage academic, social, and physical hurdles.
-29. **hurdle**: *[n.]* 障碍;困难
-    - The experience of coming to terms with defeat can build the resilience and self-awareness necessary to manage academic, social, and physical **hurdles**.
-30. **competitive**: *[adj.]* 竞争的;好竞争的
-    - Perhaps one team is too **competitive** or not competitive enough.
-31. **strength**: *[n.]* 优势;长处
-    - It can also take time to find the sport that plays to your **strengths**.
-32. **nurture**: *[v.]* 养育;培养
-    - You'll be exercising your body and you'll be **nurturing** your mind.
+1. **tuition bill**: *[n.]* 学费，教育费
+    - With all their classes, **tuition bills**, and homework, many college students don't make eating right a priority.
+2. **priority**: *[n.]* 优先事项，首要考虑的事
+    - With all their classes, tuition bills, and homework, many college students don't make eating right a **priority**.
+3. **grab**: *[v.]* 快速取得，匆忙拿起
+    - For lunch, it's really whatever I can **grab**.
+4. **snack**: *[n.]* 小吃，零食
+    - I usually eat **snacks**.
+5. **chicken tender**: *[n.]* 鸡肉条，一种鸡肉小吃
+    - Fast foods, like french fries, **chicken tenders**, and hamburgers are college dining halls' most popular items, according to recent surveys.
+6. **survey**: *[n.]* 调查研究
+    - Fast foods, like french fries, chicken tenders, and hamburgers are college dining halls' most popular items, according to recent **surveys**.
+7. **nutritionist**: *[n.]* 营养学家
+    - Carol Kelly, a **nutritionist** at Emory University, gave us a lesson in College Diets 101.
+8. **101**: *[n.]* 基础课程，入门级课程
+    - Carol Kelly, a nutritionist at Emory University, gave us a lesson in College Diets **101**.
+9. **on the run**: *[adv.]* 匆忙中，在奔跑时
+    - "Students will choose foods that are quick and easy to eat, **on the run**, and sometimes that comes at the expense of having more balance with their diet."
+10. **at the expense of**: *[adv.]* 以损害...为代价
+    - "Students will choose foods that are quick and easy to eat, on the run, and sometimes that comes **at the expense of** having more balance with their diet."
+11. **cater to**: *[v.]* 迎合，满足需求
+    - Kelly says college dining services have **catered to** student demands for healthier choices, but honey buns and hamburgers are still the grab and go favorite.
+12. **honey bun**: *[n.]* 蜂蜜小圆面包，一种甜点
+    - Kelly says college dining services have catered to student demands for healthier choices, but **honey buns** and hamburgers are still the grab and go favorite.
+13. **grab and go**: *[adj.]* 即取即走的，方便快捷的
+    - Kelly says college dining services have catered to student demands for healthier choices, but honey buns and hamburgers are still the **grab and go** favorite.
+14. **stir-fry**: *[n.]* 炒菜
+    - They have everything from **stir-fries** to fast foods to hot meals that include vegetables.
+15. **abundant**: *[adj.]* 丰富的，大量的
+    - **Abundant** salad bars.
+16. **salad bar**: *[n.]* 沙拉吧，提供各种沙拉的餐饮服务台
+    - Abundant **salad bars**.
+17. **tasty**: *[adj.]* 美味的，可口的
+    - However, students still typically will select what they, um, know as familiar and **tasty** to them."
+18. **invincible**: *[adj.]* 不可战胜的，无敌的
+    - Kelly says college students aren't **invincible** to the consequences of unhealthy diets.
+19. **consequence**: *[n.]* 后果，结果
+    - Kelly says college students aren't invincible to the **consequences** of unhealthy diets.
+20. **template**: *[n.]* 模板，标准
+    - "Students may be developing a **template**, a nutritional template, a pattern that they're going to take with them into adulthood.
+21. **nutritional**: *[adj.]* 营养的，滋养的
+    - "Students may be developing a template, a **nutritional** template, a pattern that they're going to take with them into adulthood.
+22. **diabetes**: *[n.]* 糖尿病
+    - Nutrition is involved with increased risk of cardiovascular disease, possibly **diabetes**, um, possibly hypertension."
+23. **hypertension**: *[n.]* 高血压
+    - Nutrition is involved with increased risk of cardiovascular disease, possibly diabetes, um, possibly **hypertension**."
+24. **pepperoni pizza**: *[n.]* 意大利辣肉香肠披萨
+    - "Instead of having simply... Um, **pepperoni pizza**, two or three slices of that, maybe have one slice along with the salad.
+25. **slice**: *[n.]* 片，切片
+    - "Instead of having simply... Um, pepperoni pizza, two or three **slices** of that, maybe have one slice along with the salad.
+26. **nut**: *[n.]* 坚果
+    - Snacks such as **nuts** and seeds along with fresh fruit."
+27. **seed**: *[n.]* 种子
+    - Snacks such as nuts and **seeds** along with fresh fruit."

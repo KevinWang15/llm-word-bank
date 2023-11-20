@@ -1,200 +1,44 @@
 [
-  {
-    "number": 1,
-    "word": "a man of his word",
-    "partOfSpeech": "n.",
-    "chinese": "信守承诺的人"
-  },
-  {
-    "number": 2,
-    "word": "trophy",
-    "partOfSpeech": "n.",
-    "chinese": "奖杯，荣誉的象征"
-  },
-  {
-    "number": 3,
-    "word": "the NBA Finals MVP",
-    "partOfSpeech": "n.",
-    "chinese": "NBA总决赛最有价值球员"
-  },
-  {
-    "number": 4,
-    "word": "symbolizes",
-    "partOfSpeech": "v.",
-    "chinese": "象征，代表"
-  },
-  {
-    "number": 5,
-    "word": "Cinco",
-    "partOfSpeech": "n.",
-    "chinese": "五（西班牙文）"
-  },
-  {
-    "number": 6,
-    "word": "reflection",
-    "partOfSpeech": "n.",
-    "chinese": "倒影，映像"
-  },
-  {
-    "number": 7,
-    "word": "the Larry O'Brien trophy",
-    "partOfSpeech": "n.",
-    "chinese": "拉里·奥布莱恩奖杯（NBA总冠军奖杯）"
-  },
-  {
-    "number": 8,
-    "word": "rookie",
-    "partOfSpeech": "n.",
-    "chinese": "新手，初出茅庐的运动员"
-  },
-  {
-    "number": 9,
-    "word": "rank",
-    "partOfSpeech": "n.",
-    "chinese": "排名，级别"
-  },
-  {
-    "number": 10,
-    "word": "beatdown",
-    "partOfSpeech": "n.",
-    "chinese": "击败"
-  },
-  {
-    "number": 11,
-    "word": "Staple center",
-    "partOfSpeech": "n.",
-    "chinese": "斯台普斯中心（体育馆）"
-  },
-  {
-    "number": 12,
-    "word": "quarters",
-    "partOfSpeech": "n.",
-    "chinese": "四分之一（这里指篮球比赛的四分之一时间）"
-  },
-  {
-    "number": 13,
-    "word": "made a run",
-    "partOfSpeech": "v.",
-    "chinese": "连续得分，发起攻势"
-  },
-  {
-    "number": 14,
-    "word": "blew up",
-    "partOfSpeech": "v.",
-    "chinese": "爆发，突然沸腾、发出很大声音"
-  },
-  {
-    "number": 15,
-    "word": "commissioner",
-    "partOfSpeech": "n.",
-    "chinese": "专员，委员（这里指NBA总裁）"
-  },
-  {
-    "number": 16,
-    "word": "court",
-    "partOfSpeech": "n.",
-    "chinese": "球场"
-  },
-  {
-    "number": 17,
-    "word": "winding down",
-    "partOfSpeech": "v.",
-    "chinese": "逐渐结束"
-  },
-  {
-    "number": 18,
-    "word": "instant",
-    "partOfSpeech": "n.",
-    "chinese": "瞬间，片刻"
-  },
-  {
-    "number": 19,
-    "word": "hype",
-    "partOfSpeech": "n.",
-    "chinese": "大肆宣传，炒作"
-  },
-  {
-    "number": 20,
-    "word": "innocence",
-    "partOfSpeech": "n.",
-    "chinese": "纯真，天真"
-  },
-  {
-    "number": 21,
-    "word": "boyish",
-    "partOfSpeech": "adj.",
-    "chinese": "孩子气的，像男孩的"
-  },
-  {
-    "number": 22,
-    "word": "amusement parks",
-    "partOfSpeech": "n.",
-    "chinese": "游乐园"
-  },
-  {
-    "number": 23,
-    "word": "rides",
-    "partOfSpeech": "n.",
-    "chinese": "游乐设施"
-  },
-  {
-    "number": 24,
-    "word": "Matterhorn",
-    "partOfSpeech": "n.",
-    "chinese": "马特洪峰（游乐设施名）"
-  },
-  {
-    "number": 25,
-    "word": "teacups",
-    "partOfSpeech": "n.",
-    "chinese": "茶杯旋转游戏"
-  },
-  {
-    "number": 26,
-    "word": "spinning",
-    "partOfSpeech": "v.",
-    "chinese": "旋转"
-  },
-  {
-    "number": 27,
-    "word": "fit in",
-    "partOfSpeech": "v.",
-    "chinese": "能良好融入"
-  },
-  {
-    "number": 28,
-    "word": "Space Mountain",
-    "partOfSpeech": "n.",
-    "chinese": "太空山（游乐设施名）"
-  },
-  {
-    "number": 29,
-    "word": "coach",
-    "partOfSpeech": "n.",
-    "chinese": "教练"
-  },
-  {
-    "number": 30,
-    "word": "Dracula",
-    "partOfSpeech": "n.",
-    "chinese": "德古拉，吸血鬼角色"
-  },
-  {
-    "number": 31,
-    "word": "coffin",
-    "partOfSpeech": "n.",
-    "chinese": "棺材"
-  },
-  {
-    "number": 32,
-    "word": "mystique",
-    "partOfSpeech": "n.",
-    "chinese": "神秘性"
-  },
-  {
-    "number": 33,
-    "word": "Zen",
-    "partOfSpeech": "n.",
-    "chinese": "禅宗"
-  }
+    {
+        "number": 1,
+        "word": "businesslike",
+        "partOfSpeech": "adj.",
+        "chinese": "实事求是的，专业的，效率高的"
+    },
+    {
+        "number": 2,
+        "word": "get you nowhere",
+        "partOfSpeech": "v.",
+        "chinese": "毫无进展，无济于事"
+    },
+    {
+        "number": 3,
+        "word": "put on airs",
+        "partOfSpeech": "v.",
+        "chinese": "摆架子，装腔作势"
+    },
+    {
+        "number": 4,
+        "word": "granted",
+        "partOfSpeech": "v.",
+        "chinese": "被接受，被准许"
+    },
+    {
+        "number": 5,
+        "word": "runaround",
+        "partOfSpeech": "n.",
+        "chinese": "敷衍，回避正题"
+    },
+    {
+        "number": 6,
+        "word": "appliance",
+        "partOfSpeech": "n.",
+        "chinese": "家用电器"
+    },
+    {
+        "number": 7,
+        "word": "stick to",
+        "partOfSpeech": "v.",
+        "chinese": "坚持，遵守"
+    }
 ]

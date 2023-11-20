@@ -1,71 +1,98 @@
-# The Dedication Needed to Become an Olympic Athlete
+# Part 3: Dark secrets of the food industry
 
 ## Transcript
 
 
-It's unbelievable how much effort and how much work, not just over any one day, but over the **course** of a lifetime these athletes put into it. I mean,  I can't imagine how they can have normal jobs. I mean, you're talking about training 6, 7, 8 hours a day, sometimes longer, over, you know, years, sometimes decades.
+The industry changed the entire way that chicken are raised. Birds are now raised and **slaughtered** in half the time they were 50 years ago. But now they're twice as big. People like to eat white meat, so they redesigned the chicken to have large breasts.
 
-I mean, a lot of these... Most of these athletes have started at six, seven, eight years old in whatever that sport is. So, the **dedication** is **tremendous**. But you also have to remember that these are the **cream of the crop**. I mean, most athletes  don't get to that point. It's a **combination** of skill, you know, having the **innate** ability to do whatever that sport is, and then having the **work ethic** on top of that.
+They not only changed the chicken, they changed the farmer. Today, chicken farmers no longer control their birds. A company like Tyson owns the birds from the day they're **dropped off** until the day that they're slaughtered.
 
-Work ethic alone isn't going to get you there. You have to be a naturally gifted athlete. So, the combination of those two is really incredible. 
 
-I think it's amazing how much of an **entourage** has gone into professional sports. Not just at the Olympic level, but at all levels. Teams now travel with athletic trainers and **strength and conditioning coaches**. Really, like you say, usually **have access** at least to a **nutritionist** and people like that. I think it really depends.
+Let me go to the top. National Chicken Council. The chicken industry has really **set a model** for the **integration** of production and **processing** and marketing of the products that other industries are now following because they see that we have achieved **tremendous** economies.
 
-A lot of times the teams, such as say the U. S. Olympic teams, each sport, U. S.  swimming, U. S. A.  They're all going to have their own trainers, their own strength and conditioning coaches, things like that. When you get to the athletes that are well paid, the professional athletes that make a lot of money, they may have their own personal strength and conditioning coach and personal athletic trainer and **massage therapist**.
+In a way, we're not producing chickens. We're producing food. It's all highly **mechanized**. So all the birds coming off those farms have to be almost exactly the same size. What this system of **intensive** production **accomplishes**, is to produce a lot of food, at a small amount of land, at a very **affordable** price. Now somebody explain to me what's wrong with that.
 
-It really just depends, but at least in the United States, at the national level, almost all of the sports now have a very **dedicated** **sports medicine staff** that usually travels with the team.
+Smells like money to me.
 
-It's really difficult to say how much training because it's not the same for every. person and it's not the same for every sport. Typically, some of these athletes especially can go six to twelve hours a day doing what it is they do. One of the problems you get into though with that long and that **intensive** training is that if it's in the same activity, the same, say, uh, butterfly swimmer, uh, doing the same **motion** over and over and over again for hours and hours and hours, um, That can start to be **detrimental**.
+16 chicken houses sit here. And Chuck’s son has four over the top of this hill. The chicken industry came in here, and it’s helped this whole community out. Here’s my chicken houses here. I have about 300,000 chickens.
 
-Whereas if they **vary it up** a little bit, maybe not so much. It really depends also, you know, how good a **cardiovascular** shape they're in, how, um, strong they are, how good their muscle strength is to support their bodies.
+We have a **contract** with Tyson. They've been growing chickens for many, many years, and it's all a science. They got it figured out. If you could grow a chicken in 49 days, why would you want one you gotta grow in three months. More money in your pocket.
 
-I think, you know, the professional athletes, the Olympic athletes, have the benefit of having done whatever their sport is for so long. They know their bodies. They know that pain is normal. I can just run through it or I can just swim through it or whatever.  They also know what's not normal, what really hurts and they have access to the top **physicians**, the top trainers in the world.
+These chickens never see **sunlight**. They're pretty much **in the dark** all the time.
 
-I think what you can take out of that is one, you know, know that you can really push yourself most of the time and do...  Great, do really well, but you have to listen to your body and know when, you know, pain is unusual or really uncomfortable, you know, to **seek advice**. You don't have your own personal **orthopedic surgeon**, obviously, but just know that, you know, this is not normal and I need to stop and re evaluate.
+Do you think they just want to keep us out.
+
+If I knew I'd tell you. It would be nice if y'all could see what we really do. But you know, but as far as y'all going in, that's, we can't let you do that.
+
+I understand why farmers don't want to talk, um, because the company can do what it wants to do as far as **pay** goes, since they control everything. Um, but it's just gotten to the point that it's not right what's going on, and I've just made up my mind, I'm going to say what I have to say. Um, I understand why others don't want to do it.
+
+And I'm just to the point that it doesn't matter anymore. Something has to be said.
+
+It is **nasty** in here. There's dust flying everywhere. There's **feces** everywhere. This isn't fun. This isn’t **farming**. This is just **mass production** like an **assembly line** in a factory. When they grow from a chick, and in seven weeks you've got a five and a half pound chicken, their bones and their **internal organs** can't keep up with the rapid growth.
+
+A lot of these chickens here, they can take a few steps. And then they **plop down**. It's because they can't keep up with all the **weight** that they're carrying.
+
+That's normal.
+
+There's **antibiotics** that's put into the **feed**, and of course that passes through the chicken.
+
+The **bacteria** **builds up** a **resistance**, so antibiotics aren't working anymore. I have become **allergic** to all antibiotics and can't take them.
 
 ## Word Bank
 
-1. **course**: *[n.]* 过程，进程
-    - It's unbelievable how much effort and how much work, not just over any one day, but over the **course** of a lifetime these athletes put into it.
-2. **dedication**: *[n.]* 奉献，致力，执着
-    - So, the **dedication** is tremendous.
-3. **tremendous**: *[adj.]* 巨大的，极其的，惊人的
-    - So, the dedication is **tremendous**.
-4. **cream of the crop**: *[n.]* 最优秀的一部分，精英，佼佼者
-    - But you also have to remember that these are the **cream of the crop**.
-5. **combination**: *[n.]* 组合，结合
-    - It's a **combination** of skill, you know, having the innate ability to do whatever that sport is, and then having the work ethic on top of that.
-6. **innate**: *[adj.]* 天生的，固有的
-    - It's a combination of skill, you know, having the **innate** ability to do whatever that sport is, and then having the work ethic on top of that.
-7. **work ethic**: *[n.]* 工作态度 (通过勤奋换取回报的态度)
-    - It's a combination of skill, you know, having the innate ability to do whatever that sport is, and then having the **work ethic** on top of that.
-8. **entourage**: *[n.]* 随行人员，团队，随员
-    - I think it's amazing how much of an **entourage** has gone into professional sports.
-9. **strength and conditioning coach**: *[n.]* 力量和体能教练
-    - Teams now travel with athletic trainers and **strength and conditioning coaches**.
-10. **have access to**: *[v.]* 有权使用，可以接触
-    - Really, like you say, usually **have access** at least to a nutritionist and people like that.
-11. **nutritionist**: *[n.]* 营养学家，营养师
-    - Really, like you say, usually have access at least to a **nutritionist** and people like that.
-12. **massage therapist**: *[n.]* 按摩师，推拿治疗师
-    - When you get to the athletes that are well paid, the professional athletes that make a lot of money, they may have their own personal strength and conditioning coach and personal athletic trainer and **massage therapist**.
-13. **dedicated**: *[adj.]* 专用的，专注的，忠诚的
-    - It really just depends, but at least in the United States, at the national level, almost all of the sports now have a very **dedicated** sports medicine staff that usually travels with the team.
-14. **sports medicine staff**: *[n.]* 运动医学团队，运动医疗人员
-    - It really just depends, but at least in the United States, at the national level, almost all of the sports now have a very dedicated **sports medicine staff** that usually travels with the team.
-15. **intense**: *[adj.]* 密集的，强度高的
-    - One of the problems you get into though with that long and that **intensive** training is that if it's in the same activity, the same, say, uh, butterfly swimmer, uh, doing the same motion over and over and over again for hours and hours and hours, um, That can start to be detrimental.
-16. **motion**: *[n.]* 动作，运动
-    - One of the problems you get into though with that long and that intensive training is that if it's in the same activity, the same, say, uh, butterfly swimmer, uh, doing the same **motion** over and over and over again for hours and hours and hours, um, That can start to be detrimental.
-17. **detrimental**: *[adj.]* 有害的，不利的
-    - One of the problems you get into though with that long and that intensive training is that if it's in the same activity, the same, say, uh, butterfly swimmer, uh, doing the same motion over and over and over again for hours and hours and hours, um, That can start to be **detrimental**.
-18. **vary up**: *[v.]* 变化，使多样化
-    - Whereas if they **vary it up** a little bit, maybe not so much.
-19. **cardiovascular**: *[adj.]* 心血管的
-    - It really depends also, you know, how good a **cardiovascular** shape they're in, how, um, strong they are, how good their muscle strength is to support their bodies.
-20. **physician**: *[n.]* 医生，内科医师
-    - They also know what's not normal, what really hurts and they have access to the top **physicians**, the top trainers in the world.
-21. **seek advice**: *[v.]* 寻求建议，征询意见
-    - I think what you can take out of that is one, you know, know that you can really push yourself most of the time and do...  Great, do really well, but you have to listen to your body and know when, you know, pain is unusual or really uncomfortable, you know, to **seek advice**.
-22. **orthopedic surgeon**: *[n.]* 骨科医生，骨科外科医师
-    - You don't have your own personal **orthopedic surgeon**, obviously, but just know that, you know, this is not normal and I need to stop and re evaluate.
+1. **slaughter**: *[v.]* 宰杀，指在屠宰场杀死动物取肉
+    - Birds are now raised and **slaughtered** in half the time they were 50 years ago.
+2. **drop off**: *[v.]* 送达，指把鸡送到农场的行为
+    - A company like Tyson owns the birds from the day they're **dropped off** until the day that they're slaughtered.
+3. **set a model**: *[v.]* 树立模范，指在某个领域成为值得效仿的典范
+    - The chicken industry has really **set a model** for the integration of production and processing and marketing of the products that other industries are now following because they see that we have achieved tremendous economies.
+4. **integration**: *[n.]* 集成，指各个部分或方面合并为一个整体的过程
+    - The chicken industry has really set a model for the **integration** of production and processing and marketing of the products that other industries are now following because they see that we have achieved tremendous economies.
+5. **processing**: *[n.]* 加工，指将原材料或半成品转变为成品的过程
+    - The chicken industry has really set a model for the integration of production and **processing** and marketing of the products that other industries are now following because they see that we have achieved tremendous economies.
+6. **tremendous**: *[adj.]* 巨大的，表示非常大或极其显著的
+    - The chicken industry has really set a model for the integration of production and processing and marketing of the products that other industries are now following because they see that we have achieved **tremendous** economies.
+7. **mechanize**: *[adj.]* 机械化的，指使用机器进行生产或工作的
+    - It's all highly **mechanized**.
+8. **intensive**: *[adj.]* 密集的，指用尽可能少的资源或空间获得最大产出的
+    - What this system of **intensive** production accomplishes, is to produce a lot of food, at a small amount of land, at a very affordable price.
+9. **accomplish**: *[v.]* 完成，指成功地完成或实现某事
+    - What this system of intensive production **accomplishes**, is to produce a lot of food, at a small amount of land, at a very affordable price.
+10. **affordable**: *[adj.]* 负担得起的，指价格合理，大多数人能买得起的
+    - What this system of intensive production accomplishes, is to produce a lot of food, at a small amount of land, at a very **affordable** price.
+11. **contract**: *[n.]* 合同，指两个或多个方之间的正式协议或契约
+    - We have a **contract** with Tyson.
+12. **sunlight**: *[n.]* 阳光，指太阳发出的光线
+    - These chickens never see **sunlight**.
+13. **in the dark**: *[adv.]* 在黑暗中，在没有光线的环境中
+    - They're pretty much **in the dark** all the time.
+14. **pay**: *[n.]* 支付，指给予金钱作为报酬或薪水
+    - I understand why farmers don't want to talk, um, because the company can do what it wants to do as far as **pay** goes, since they control everything.
+15. **nasty**: *[adj.]* 令人不快的，指非常不干净或让人感到不舒服的
+    - It is **nasty** in here.
+16. **feces**: *[n.]* 粪便，动物排泄的废物
+    - There's **feces** everywhere.
+17. **farming**: *[n.]* 耕作，指种植作物和养殖动物的农业活动
+    - This isn’t **farming**.
+18. **mass production**: *[n.]* 大规模生产，指使用流水线和其他工业化方法大量生产商品的过程
+    - This is just **mass production** like an assembly line in a factory.
+19. **assembly line**: *[n.]* 装配线，一种生产方式，产品在流水线上逐步完成组装或加工
+    - This is just mass production like an **assembly line** in a factory.
+20. **internal organ**: *[n.]* 内脏器官，指身体内部的器官
+    - When they grow from a chick, and in seven weeks you've got a five and a half pound chicken, their bones and their **internal organs** can't keep up with the rapid growth.
+21. **plop down**: *[v.]* 重重倒下，指突然或无力地坐下或倒下
+    - And then they **plop down**.
+22. **weight**: *[n.]* 重量
+    - It's because they can't keep up with all the **weight** that they're carrying.
+23. **antibiotics**: *[n.]* 抗生素
+    - There's **antibiotics** that's put into the feed, and of course that passes through the chicken.
+24. **feed**: *[n.]* 饲料，指给动物吃的食物
+    - There's antibiotics that's put into the **feed**, and of course that passes through the chicken.
+25. **bacteria**: *[n.]* 细菌
+    - The **bacteria** builds up a resistance, so antibiotics aren't working anymore.
+26. **build up**: *[v.]* 积累，指逐渐增加或累积
+    - The bacteria **builds up** a resistance, so antibiotics aren't working anymore.
+27. **resistance**: *[n.]* 抵抗力，指对抗生素的耐药性
+    - The bacteria builds up a **resistance**, so antibiotics aren't working anymore.
+28. **allergic**: *[adj.]* 过敏的
+    - I have become **allergic** to all antibiotics and can't take them.

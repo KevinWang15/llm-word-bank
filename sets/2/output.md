@@ -1,67 +1,67 @@
-# Text 2: Mike Tyson in the news
+# Part 2 Text 1: Dining etiquette
 
 ## Transcript
 
 
-Tyson has earned 300 million dollars since becoming world **heavyweight** champion in 1986, but his **outrageously** **lavish** lifestyle forced him to declare **bankruptcy** just last week. ABC's Robert Crullwich explains how the former champ **squandered** his fortune.  To spend 300 million dollars in 17 years, you've got to spend 48,  348 bucks every day.
+Hello, I'm Nancy Mitchell, the owner of the Etiquette **Advocate**, and today we're talking about dining etiquette. We will now talk about what are some of the things you do not want to do when you are seated at a dining room table.
 
-How did he do that? Robin Givens and Mike Tyson! Well, starting with the ladies, his first divorce from Robin Givens cost 10. 5 million dollars. His second from Monica Turner cost another 6. 5 million, plus she got a house. His houses were **high maintenance**. This one, for example, has 61 rooms. 18 bedrooms, 38 bathrooms, 7 kitchens, a disco, indoor **racquetball**, indoor pool, **gym**, private **screening room**, and a **master bedroom** with 5 televisions.
+First and **foremost**, when you arrive at the table and you have found your place, it is extremely rude to change **place cards**. The Host, hostess has worked very, very hard on finding an arrangement at the table that will **facilitate** conversation. There is mixing and **mingling** of people and corporations and **agendas**. Don't make... The mistake of moving a place card. Find your place and sit where you are **assigned**.
 
-**Lawn care** alone at 3 of these homes, he says, costs 748, 000.  He liked pets, unusual pets. He bought 2 Siberian tigers, these aren't his, but they cost 70, 000 each and required a **trainer**. He liked cars. He had five of these **Bentley convertibles** at 320, 000 each. In the late 1980s, he bought 110 cars for himself and his friends.
+Other things not to do at the table are taking **medications**. It makes other people very uncomfortable to see you taking a medication, even if you need to do that before a meal. It should be very, very **unobtrusive**. It should be something that you do not do when other people are watching.
 
-Then there's Don King, the fight **promoter**, who he now **accuses of** stealing tens of millions of his **earnings**. The two are **suing** each other, which means, of course, that Tyson has had to hire lawyers. Lots of lawyers 'cause he keeps getting into trouble - What happened here? for **biting** Evander Holyfield's ear, for **being convicted of** **rape**, for getting into fights at bars and hotels for **non-payment** of taxes for **filing bankruptcy**.
+**Hygiene**: Don't **assume** that after a meal you can apply **lipstick**. You cannot use a **toothpick** at the table. You cannot use your finger to get something out of your teeth at the table. All of those things are very **offensive** and will disturb the other **diners**.
 
-Lawyers have cost Tyson millions, but is he embarrassed or regretful a year ago? Anyway, he told ESPN Not at all. I never dreamed of living this long. I never dreamed of **fornicating** with as many as beautiful women as I did, or having as much money as I did. And having as beautiful and intelligent kids as I did, so if I was to die tomorrow, I've won. I've won. Even if the money's gone, he said then, I've won.
+Using your cell phone: The cell phone should be under the table. It can be in a briefcase. It can be in a handbag. If it rings... Reach down, turn it off, say to your dining companions, I'm so sorry, I thought I had turned that off. Don't look at the **display**. Don't answer the call to say, I'm sorry, I can't talk right now, I'll call you back. You are saying to your dining companions that whoever is calling you is more important than they are. This should be **out of the picture**.
 
-\- Robert Krulwich, ABC News.
+Other things to remember are it's your responsibility to talk to your guest on your left and your right. If you've come to the event with someone from your business, from your family, it's your responsibility to talk to other people at the table and not just to the person with whom you've come.
 
+Other things to avoid are taking away **doggy bags** if you're at a business event or any event where you care about your image. Don't ask for a doggie bag. Don't share **bites** of your food with other people at the table. Don't ask for a taste of someone else's. These things **reflect very poorly on you**.
 
+Next, we're going to be talking about how to **navigate** the **place setting**.
 
 ## Word Bank
 
-1. **heavyweight**: *[n.]* 重量级，特指重量级拳击手
-    - Tyson has earned 300 million dollars since becoming world **heavyweight** champion in 1986, but his outrageously lavish lifestyle forced him to declare bankruptcy just last week.
-2. **outrageously**: *[adv.]* 过度地，令人难以置信地
-    - Tyson has earned 300 million dollars since becoming world heavyweight champion in 1986, but his **outrageously** lavish lifestyle forced him to declare bankruptcy just last week.
-3. **lavish**: *[adj.]* 奢侈的，过度的，大手大脚的
-    - Tyson has earned 300 million dollars since becoming world heavyweight champion in 1986, but his outrageously **lavish** lifestyle forced him to declare bankruptcy just last week.
-4. **bankruptcy**: *[n.]* 破产
-    - Tyson has earned 300 million dollars since becoming world heavyweight champion in 1986, but his outrageously lavish lifestyle forced him to declare **bankruptcy** just last week.
-5. **squander**: *[v.]* 挥霍，浪费
-    - ABC's Robert Crullwich explains how the former champ **squandered** his fortune.
-6. **high maintenance**: *[adj.]* 高维护的，需要大量花费维护的
-    - His houses were **high maintenance**.
-7. **racquetball**: *[n.]* 壁球，一种室内球类运动
-    - 18 bedrooms, 38 bathrooms, 7 kitchens, a disco, indoor **racquetball**, indoor pool, gym, private screening room, and a master bedroom with 5 televisions.
-8. **gym**: *[n.]* 健身房
-    - 18 bedrooms, 38 bathrooms, 7 kitchens, a disco, indoor racquetball, indoor pool, **gym**, private screening room, and a master bedroom with 5 televisions.
-9. **screening room**: *[n.]* 放映室，专用于观看电影的房间
-    - 18 bedrooms, 38 bathrooms, 7 kitchens, a disco, indoor racquetball, indoor pool, gym, private **screening room**, and a master bedroom with 5 televisions.
-10. **master bedroom**: *[n.]* 主卧室，主要的卧室
-    - 18 bedrooms, 38 bathrooms, 7 kitchens, a disco, indoor racquetball, indoor pool, gym, private screening room, and a **master bedroom** with 5 televisions.
-11. **lawn care**: *[n.]* 草坪护理，草地维护
-    - **Lawn care** alone at 3 of these homes, he says, costs 748, 000.
-12. **trainer**: *[n.]* 训练师，教练
-    - He bought 2 Siberian tigers, these aren't his, but they cost 70, 000 each and required a **trainer**.
-13. **Bentley convertible**: *[n.]* 宾利敞篷车
-    - He had five of these **Bentley convertibles** at 320, 000 each.
-14. **promoter**: *[n.]* 推广者，促进者，特指拳击比赛的推广者
-    - Then there's Don King, the fight **promoter**, who he now accuses of stealing tens of millions of his earnings.
-15. **accuse of**: *[v.]* 指责，控告
-    - Then there's Don King, the fight promoter, who he now **accuses of** stealing tens of millions of his earnings.
-16. **earning**: *[n.]* 收益，收入
-    - Then there's Don King, the fight promoter, who he now accuses of stealing tens of millions of his **earnings**.
-17. **sue**: *[v.]* 起诉，控告
-    - The two are **suing** each other, which means, of course, that Tyson has had to hire lawyers.
-18. **bite**: *[v.]* 咬
-    - for **biting** Evander Holyfield's ear, for being convicted of rape, for getting into fights at bars and hotels for non-payment of taxes for filing bankruptcy.
-19. **be convicted of**: *[v.]* 被定罪，被判有罪
-    - for biting Evander Holyfield's ear, for **being convicted of** rape, for getting into fights at bars and hotels for non-payment of taxes for filing bankruptcy.
-20. **rape**: *[n.]* 强奸，性侵犯
-    - for biting Evander Holyfield's ear, for being convicted of **rape**, for getting into fights at bars and hotels for non-payment of taxes for filing bankruptcy.
-21. **nonpayment**: *[n.]* 未支付，拖欠
-    - for biting Evander Holyfield's ear, for being convicted of rape, for getting into fights at bars and hotels for **non-payment** of taxes for filing bankruptcy.
-22. **file bankruptcy**: *[v.]* 申请破产
-    - for biting Evander Holyfield's ear, for being convicted of rape, for getting into fights at bars and hotels for non-payment of taxes for **filing bankruptcy**.
-23. **fornicate**: *[v.]* 通奸，淫乱
-    - I never dreamed of **fornicating** with as many as beautiful women as I did, or having as much money as I did.
+1. **advocate**: *[n.]* 支持者，提倡者
+    - Hello, I'm Nancy Mitchell, the owner of the Etiquette **Advocate**, and today we're talking about dining etiquette.
+2. **foremost**: *[adj.]* 最重要的，最著名的
+    - First and **foremost**, when you arrive at the table and you have found your place, it is extremely rude to change place cards.
+3. **place card**: *[n.]* 座位卡，指示宾客就座位置的卡片
+    - First and foremost, when you arrive at the table and you have found your place, it is extremely rude to change **place cards**.
+4. **facilitate**: *[v.]* 促进，使容易
+    - The Host, hostess has worked very, very hard on finding an arrangement at the table that will **facilitate** conversation.
+5. **mingle**: *[v.]* 混合，交往
+    - There is mixing and **mingling** of people and corporations and agendas.
+6. **agenda**: *[n.]* 议程，待办事项列表
+    - There is mixing and mingling of people and corporations and **agendas**.
+7. **assign**: *[v.]* 指定，分配
+    - Find your place and sit where you are **assigned**.
+8. **medication**: *[n.]* 药物，用药
+    - Other things not to do at the table are taking **medications**.
+9. **unobtrusive**: *[adj.]* 不引人注目的，谦逊的
+    - It should be very, very **unobtrusive**.
+10. **hygiene**: *[n.]* 卫生，保健学
+    - **Hygiene**: Don't assume that after a meal you can apply lipstick.
+11. **assume**: *[v.]* 假定，设想
+    - Hygiene: Don't **assume** that after a meal you can apply lipstick.
+12. **lipstick**: *[n.]* 口红，唇膏
+    - Hygiene: Don't assume that after a meal you can apply **lipstick**.
+13. **toothpick**: *[n.]* 牙签
+    - You cannot use a **toothpick** at the table.
+14. **offensive**: *[adj.]* 令人不快的，冒犯的
+    - All of those things are very **offensive** and will disturb the other diners.
+15. **diner**: *[n.]* 用餐者，就餐者
+    - All of those things are very offensive and will disturb the other **diners**.
+16. **display**: *[n.]* 显示屏
+    - Don't look at the **display**.
+17. **out of the picture**: *[adj.]* 被排除在外的
+    - This should be **out of the picture**.
+18. **doggy bag**: *[n.]* 剩菜打包袋
+    - Other things to avoid are taking away **doggy bags** if you're at a business event or any event where you care about your image.
+19. **bite**: *[n.]* 一口，小口尝味
+    - Don't share **bites** of your food with other people at the table.
+20. **reflect poorly on sb**: *[v.]* 给人留下非常不好的印象，表示某种行为或习惯极度损害个人形象或声誉
+    - These things **reflect very poorly on you**.
+21. **navigate**: *[v.]* 导航，理解并应对
+    - Next, we're going to be talking about how to **navigate** the place setting.
+22. **place setting**: *[n.]* 餐位设置，一套餐具的摆放
+    - Next, we're going to be talking about how to navigate the **place setting**.

@@ -1,194 +1,29 @@
 [
-  {
-    "number": 1,
-    "word": "underdog",
-    "partOfSpeech": "n.",
-    "chinese": "处于劣势的一方;非热门团队或个人"
-  },
-  {
-    "number": 2,
-    "word": "penalty shot",
-    "partOfSpeech": "n.",
-    "chinese": "罚球机会;违规后的得分机会"
-  },
-  {
-    "number": 3,
-    "word": "tournament",
-    "partOfSpeech": "n.",
-    "chinese": "锦标赛;比赛"
-  },
-  {
-    "number": 4,
-    "word": "montages",
-    "partOfSpeech": "n.",
-    "chinese": "蒙太奇;通过拼接的片段组合成的影片或画面"
-  },
-  {
-    "number": 5,
-    "word": "glorify",
-    "partOfSpeech": "v.",
-    "chinese": "赞美;歌颂"
-  },
-  {
-    "number": 6,
-    "word": "obsessed",
-    "partOfSpeech": "adj.",
-    "chinese": "着迷的;沉迷的"
-  },
-  {
-    "number": 7,
-    "word": "pastime",
-    "partOfSpeech": "n.",
-    "chinese": "消遣;娱乐活动"
-  },
-  {
-    "number": 8,
-    "word": "strengthening",
-    "partOfSpeech": "v.",
-    "chinese": "加强;使变得更强"
-  },
-  {
-    "number": 9,
-    "word": "cholesterol",
-    "partOfSpeech": "n.",
-    "chinese": "胆固醇"
-  },
-  {
-    "number": 10,
-    "word": "arteries",
-    "partOfSpeech": "n.",
-    "chinese": "动脉"
-  },
-  {
-    "number": 11,
-    "word": "stroke",
-    "partOfSpeech": "n.",
-    "chinese": "中风;脑卒中"
-  },
-  {
-    "number": 12,
-    "word": "diabetes",
-    "partOfSpeech": "n.",
-    "chinese": "糖尿病"
-  },
-  {
-    "number": 13,
-    "word": "endorphins",
-    "partOfSpeech": "n.",
-    "chinese": "内啡肽;一种能减轻痛感并引起愉悦的脑内物质"
-  },
-  {
-    "number": 14,
-    "word": "hormones",
-    "partOfSpeech": "n.",
-    "chinese": "荷尔蒙;体内分泌的调节物质"
-  },
-  {
-    "number": 15,
-    "word": "nervous system",
-    "partOfSpeech": "n.",
-    "chinese": "神经系统"
-  },
-  {
-    "number": 16,
-    "word": "euphoria",
-    "partOfSpeech": "n.",
-    "chinese": "欣快感;极度愉悦"
-  },
-  {
-    "number": 17,
-    "word": "a runner's high",
-    "partOfSpeech": "n.",
-    "chinese": "跑者的愉悦感;长跑后产生的愉快体验"
-  },
-  {
-    "number": 18,
-    "word": "sharpen",
-    "partOfSpeech": "v.",
-    "chinese": "提高;使更为敏锐"
-  },
-  {
-    "number": 19,
-    "word": "communal",
-    "partOfSpeech": "adj.",
-    "chinese": "公共的;社区的"
-  },
-  {
-    "number": 20,
-    "word": "commitment",
-    "partOfSpeech": "n.",
-    "chinese": "承诺;献身"
-  },
-  {
-    "number": 21,
-    "word": "self-esteem",
-    "partOfSpeech": "n.",
-    "chinese": "自尊;自我评价"
-  },
-  {
-    "number": 22,
-    "word": "boost",
-    "partOfSpeech": "n.",
-    "chinese": "提升;增强"
-  },
-  {
-    "number": 23,
-    "word": "reinforce",
-    "partOfSpeech": "v.",
-    "chinese": "加强;强化"
-  },
-  {
-    "number": 24,
-    "word": "growth",
-    "partOfSpeech": "n.",
-    "chinese": "增长;发展"
-  },
-  {
-    "number": 25,
-    "word": "mindset",
-    "partOfSpeech": "n.",
-    "chinese": "思维模式;心态"
-  },
-  {
-    "number": 26,
-    "word": "transformative",
-    "partOfSpeech": "adj.",
-    "chinese": "具有变革性的;有深刻影响的"
-  },
-  {
-    "number": 27,
-    "word": "resilience",
-    "partOfSpeech": "n.",
-    "chinese": "适应力;恢复力"
-  },
-  {
-    "number": 28,
-    "word": "self-awareness",
-    "partOfSpeech": "n.",
-    "chinese": "自我意识;自知之明"
-  },
-  {
-    "number": 29,
-    "word": "hurdles",
-    "partOfSpeech": "n.",
-    "chinese": "障碍;困难"
-  },
-  {
-    "number": 30,
-    "word": "competitive",
-    "partOfSpeech": "adj.",
-    "chinese": "竞争的;好竞争的"
-  },
-  {
-    "number": 31,
-    "word": "strengths",
-    "partOfSpeech": "n.",
-    "chinese": "优势;长处"
-  },
-  {
-    "number": 32,
-    "word": "nurturing",
-    "partOfSpeech": "v.",
-    "chinese": "养育;培养"
-  }
+    {"number": 1, "word": "tuition", "partOfSpeech": "n.", "chinese": "学费，教育费"},
+    {"number": 2, "word": "priority", "partOfSpeech": "n.", "chinese": "优先事项，首要考虑的事"},
+    {"number": 3, "word": "grab", "partOfSpeech": "v.", "chinese": "快速取得，匆忙拿起"},
+    {"number": 4, "word": "snacks", "partOfSpeech": "n.", "chinese": "小吃，零食"},
+    {"number": 5, "word": "chicken tenders", "partOfSpeech": "n.", "chinese": "鸡肉条，一种鸡肉小吃"},
+    {"number": 6, "word": "surveys", "partOfSpeech": "n.", "chinese": "调查研究"},
+    {"number": 7, "word": "nutritionist", "partOfSpeech": "n.", "chinese": "营养学家"},
+    {"number": 8, "word": "101", "partOfSpeech": "n.", "chinese": "基础课程，入门级课程"},
+    {"number": 9, "word": "on the run", "partOfSpeech": "adv.", "chinese": "匆忙中，在奔跑时"},
+    {"number": 10, "word": "at the expense of", "partOfSpeech": "adv.", "chinese": "以损害...为代价"},
+    {"number": 11, "word": "catered to", "partOfSpeech": "v.", "chinese": "迎合，满足需求"},
+    {"number": 12, "word": "honey buns", "partOfSpeech": "n.", "chinese": "蜂蜜小圆面包，一种甜点"},
+    {"number": 13, "word": "grab and go", "partOfSpeech": "adj.", "chinese": "即取即走的，方便快捷的"},
+    {"number": 14, "word": "stir-fries", "partOfSpeech": "n.", "chinese": "炒菜"},
+    {"number": 15, "word": "Abundant", "partOfSpeech": "adj.", "chinese": "丰富的，大量的"},
+    {"number": 16, "word": "salad bars", "partOfSpeech": "n.", "chinese": "沙拉吧，提供各种沙拉的餐饮服务台"},
+    {"number": 17, "word": "tasty", "partOfSpeech": "adj.", "chinese": "美味的，可口的"},
+    {"number": 18, "word": "invincible", "partOfSpeech": "adj.", "chinese": "不可战胜的，无敌的"},
+    {"number": 19, "word": "consequences", "partOfSpeech": "n.", "chinese": "后果，结果"},
+    {"number": 20, "word": "template", "partOfSpeech": "n.", "chinese": "模板，标准"},
+    {"number": 21, "word": "nutritional", "partOfSpeech": "adj.", "chinese": "营养的，滋养的"},
+    {"number": 22, "word": "diabetes", "partOfSpeech": "n.", "chinese": "糖尿病"},
+    {"number": 23, "word": "hypertension", "partOfSpeech": "n.", "chinese": "高血压"},
+    {"number": 24, "word": "pepperoni pizza", "partOfSpeech": "n.", "chinese": "意大利辣肉香肠披萨"},
+    {"number": 25, "word": "slices", "partOfSpeech": "n.", "chinese": "片，切片"},
+    {"number": 26, "word": "nuts", "partOfSpeech": "n.", "chinese": "坚果"},
+    {"number": 27, "word": "seeds", "partOfSpeech": "n.", "chinese": "种子"}
 ]

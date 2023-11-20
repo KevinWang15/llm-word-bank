@@ -1,140 +1,134 @@
 [
   {
     "number": 1,
-    "word": "heavyweight",
+    "word": "Advocate",
     "partOfSpeech": "n.",
-    "chinese": "重量级，特指重量级拳击手"
+    "chinese": "支持者，提倡者"
   },
   {
     "number": 2,
-    "word": "outrageously",
-    "partOfSpeech": "adv.",
-    "chinese": "过度地，令人难以置信地"
+    "word": "foremost",
+    "partOfSpeech": "adj.",
+    "chinese": "最重要的，最著名的"
   },
   {
     "number": 3,
-    "word": "lavish",
-    "partOfSpeech": "adj.",
-    "chinese": "奢侈的，过度的，大手大脚的"
+    "word": "place cards",
+    "partOfSpeech": "n.",
+    "chinese": "座位卡，指示宾客就座位置的卡片"
   },
   {
     "number": 4,
-    "word": "bankruptcy",
-    "partOfSpeech": "n.",
-    "chinese": "破产"
+    "word": "facilitate",
+    "partOfSpeech": "v.",
+    "chinese": "促进，使容易"
   },
   {
     "number": 5,
-    "word": "squandered",
+    "word": "mingling",
     "partOfSpeech": "v.",
-    "chinese": "挥霍，浪费"
+    "chinese": "混合，交往"
   },
   {
     "number": 6,
-    "word": "high maintenance",
-    "partOfSpeech": "adj.",
-    "chinese": "高维护的，需要大量花费维护的"
+    "word": "agendas",
+    "partOfSpeech": "n.",
+    "chinese": "议程，待办事项列表"
   },
   {
     "number": 7,
-    "word": "racquetball",
-    "partOfSpeech": "n.",
-    "chinese": "壁球，一种室内球类运动"
+    "word": "assigned",
+    "partOfSpeech": "v.",
+    "chinese": "指定，分配"
   },
   {
     "number": 8,
-    "word": "gym",
+    "word": "medications",
     "partOfSpeech": "n.",
-    "chinese": "健身房"
+    "chinese": "药物，用药"
   },
   {
     "number": 9,
-    "word": "screening room",
-    "partOfSpeech": "n.",
-    "chinese": "放映室，专用于观看电影的房间"
+    "word": "unobtrusive",
+    "partOfSpeech": "adj.",
+    "chinese": "不引人注目的，谦逊的"
   },
   {
     "number": 10,
-    "word": "master bedroom",
+    "word": "Hygiene",
     "partOfSpeech": "n.",
-    "chinese": "主卧室，主要的卧室"
+    "chinese": "卫生，保健学"
   },
   {
     "number": 11,
-    "word": "lawn care",
-    "partOfSpeech": "n.",
-    "chinese": "草坪护理，草地维护"
+    "word": "assume",
+    "partOfSpeech": "v.",
+    "chinese": "假定，设想"
   },
   {
     "number": 12,
-    "word": "trainer",
+    "word": "lipstick",
     "partOfSpeech": "n.",
-    "chinese": "训练师，教练"
+    "chinese": "口红，唇膏"
   },
   {
     "number": 13,
-    "word": "Bentley convertibles",
+    "word": "toothpick",
     "partOfSpeech": "n.",
-    "chinese": "宾利敞篷车"
+    "chinese": "牙签"
   },
   {
     "number": 14,
-    "word": "promoter",
-    "partOfSpeech": "n.",
-    "chinese": "推广者，促进者，特指拳击比赛的推广者"
+    "word": "offensive",
+    "partOfSpeech": "adj.",
+    "chinese": "令人不快的，冒犯的"
   },
   {
     "number": 15,
-    "word": "accuses of",
-    "partOfSpeech": "v.",
-    "chinese": "指责，控告"
+    "word": "diners",
+    "partOfSpeech": "n.",
+    "chinese": "用餐者，就餐者"
   },
   {
     "number": 16,
-    "word": "earnings",
+    "word": "display",
     "partOfSpeech": "n.",
-    "chinese": "收益，收入"
+    "chinese": "显示屏"
   },
   {
     "number": 17,
-    "word": "suing",
-    "partOfSpeech": "v.",
-    "chinese": "起诉，控告"
+    "word": "out of the picture",
+    "partOfSpeech": "adj.",
+    "chinese": "被排除在外的"
   },
   {
     "number": 18,
-    "word": "biting",
-    "partOfSpeech": "v.",
-    "chinese": "咬"
+    "word": "doggy bags",
+    "partOfSpeech": "n.",
+    "chinese": "剩菜打包袋"
   },
   {
     "number": 19,
-    "word": "being convicted of",
-    "partOfSpeech": "v.",
-    "chinese": "被定罪，被判有罪"
+    "word": "bites",
+    "partOfSpeech": "n.",
+    "chinese": "一口，小口尝味"
   },
   {
     "number": 20,
-    "word": "rape",
-    "partOfSpeech": "n.",
-    "chinese": "强奸，性侵犯"
+    "word": "reflect very poorly on you",
+    "partOfSpeech": "v.",
+    "chinese": "给人留下非常不好的印象，表示某种行为或习惯极度损害个人形象或声誉"
   },
   {
     "number": 21,
-    "word": "non-payment",
-    "partOfSpeech": "n.",
-    "chinese": "未支付，拖欠"
+    "word": "navigate",
+    "partOfSpeech": "v.",
+    "chinese": "导航，理解并应对"
   },
   {
     "number": 22,
-    "word": "filing bankruptcy",
-    "partOfSpeech": "v.",
-    "chinese": "申请破产"
-  },
-  {
-    "number": 23,
-    "word": "fornicating",
-    "partOfSpeech": "v.",
-    "chinese": "通奸，淫乱"
+    "word": "place setting",
+    "partOfSpeech": "n.",
+    "chinese": "餐位设置，一套餐具的摆放"
   }
 ]
